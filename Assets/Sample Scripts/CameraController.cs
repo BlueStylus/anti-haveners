@@ -6,6 +6,8 @@ public class CameraController : MonoBehaviour
 {
     //Serialized Fields
     public Transform player;
+    public float cameraDistance = -10;
+    public float playerAlignment = 5;
 
     // Start is called before the first frame update
     void Start()
@@ -17,6 +19,7 @@ public class CameraController : MonoBehaviour
     void Update()
     {
         transform.position = new Vector3(player.position.x,
-            player.position.y, -10); // Camera follows the player but 6 to the right
+            player.position.y + playerAlignment, -10); 
+        // Camera follows the player but a little down
     }
 }

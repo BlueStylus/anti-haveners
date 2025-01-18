@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class Player : MonoBehaviour
+public class SamplePlayer : MonoBehaviour
 {
     //Fields- local persistent variables for specific Class (like health)
     public float RunSpeed;
@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
 
     // Update is called once per frame
     void Update()
-    {
+    {   
         //fall to death and respawn
         if (transform.position.y < -8)
         {
