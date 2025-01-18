@@ -1,0 +1,762 @@
+fileFormatVersion: 2
+guid: 3c52bdcc8497643ae812cf142903da64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8362528431884191220
+    second: Serene Village - Inside_768x768_0
+  - first:
+      213: -4540392094555980678
+    second: Serene Village - Inside_768x768_1
+  - first:
+      213: 523512350619324715
+    second: Serene Village - Inside_768x768_2
+  - first:
+      213: -4937971669281304788
+    second: Serene Village - Inside_768x768_3
+  - first:
+      213: 2795870775844925376
+    second: Serene Village - Inside_768x768_4
+  - first:
+      213: 4069000186992019755
+    second: Serene Village - Inside_768x768_5
+  - first:
+      213: -9160503094488719857
+    second: Serene Village - Inside_768x768_6
+  - first:
+      213: 6221487086490400988
+    second: Serene Village - Inside_768x768_7
+  - first:
+      213: 6276256926286739795
+    second: Serene Village - Inside_768x768_8
+  - first:
+      213: -8080196331268425110
+    second: Serene Village - Inside_768x768_9
+  - first:
+      213: 3780968698126522088
+    second: Serene Village - Inside_768x768_10
+  - first:
+      213: 5577968453387777598
+    second: Serene Village - Inside_768x768_11
+  - first:
+      213: -2630201094863156083
+    second: Serene Village - Inside_768x768_12
+  - first:
+      213: 7712823252126519971
+    second: Serene Village - Inside_768x768_13
+  - first:
+      213: 5622909169336737356
+    second: Serene Village - Inside_768x768_14
+  - first:
+      213: -7223521679099047098
+    second: Serene Village - Inside_768x768_15
+  - first:
+      213: -6774386707074163678
+    second: Serene Village - Inside_768x768_16
+  - first:
+      213: 6393982768441696227
+    second: Serene Village - Inside_768x768_17
+  - first:
+      213: -7900868609454689197
+    second: Serene Village - Inside_768x768_18
+  - first:
+      213: -212796306845786792
+    second: Serene Village - Inside_768x768_19
+  - first:
+      213: 4574814384767484422
+    second: Serene Village - Inside_768x768_20
+  - first:
+      213: -32095864435236210
+    second: Serene Village - Inside_768x768_21
+  - first:
+      213: 8589546875567137221
+    second: Serene Village - Inside_768x768_22
+  - first:
+      213: 4587419703854361859
+    second: Serene Village - Inside_768x768_23
+  - first:
+      213: -4729384654545496856
+    second: Serene Village - Inside_768x768_24
+  - first:
+      213: 987565104624722635
+    second: Serene Village - Inside_768x768_25
+  - first:
+      213: -1586115438721251077
+    second: Serene Village - Inside_768x768_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 385
+        height: 530
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5cf8e5d4bad0470800000000000000
+      internalID: 8362528431884191220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 623
+        width: 74
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cbffe22794df0c0800000000000000
+      internalID: -4540392094555980678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 623
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21d13e85b3e34700800000000000000
+      internalID: 523512350619324715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_3
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 680
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f8b85edecc87bb0800000000000000
+      internalID: -4937971669281304788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 527
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfe12058adecc620800000000000000
+      internalID: 2795870775844925376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_5
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 527
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2948a09c1ef77830800000000000000
+      internalID: 4069000186992019755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 530
+        width: 128
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e122158fa5fd080800000000000000
+      internalID: -9160503094488719857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 479
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8b0f4da89275650800000000000000
+      internalID: 6221487086490400988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 479
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359f762eb6eb91750800000000000000
+      internalID: 6276256926286739795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 431
+        width: 92
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ab4575f306ddf80800000000000000
+      internalID: -8080196331268425110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 479
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6d3be9ff2b87430800000000000000
+      internalID: 3780968698126522088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 479
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36738841cce86d40800000000000000
+      internalID: 5577968453387777598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 479
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c86d42a06af7bd0800000000000000
+      internalID: -2630201094863156083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 431
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2df5e22e3790b60800000000000000
+      internalID: 7712823252126519971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 431
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e5a9a1916980e40800000000000000
+      internalID: 5622909169336737356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 440
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643d7f10e45e0cb90800000000000000
+      internalID: -7223521679099047098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 440
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c57b1ae2b8cf1a0800000000000000
+      internalID: -6774386707074163678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_17
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 440
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef9fec737dfbb850800000000000000
+      internalID: 6393982768441696227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_18
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 383
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3543b6c3cd97a5290800000000000000
+      internalID: -7900868609454689197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_19
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 383
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d11f8e2eefb0df0800000000000000
+      internalID: -212796306845786792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_20
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 383
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c96dc1710d7f30800000000000000
+      internalID: 4574814384767484422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_21
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 239
+        width: 83
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8224993bf8fd8ff0800000000000000
+      internalID: -32095864435236210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_22
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 239
+        width: 83
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1eebbbf53343770800000000000000
+      internalID: 8589546875567137221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 383
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30deddb5ae9c9af30800000000000000
+      internalID: 4587419703854361859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_24
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 383
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4d1abc6b9dd5eb0800000000000000
+      internalID: -4729384654545496856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_25
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 239
+        width: 83
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc26ab5fa3984bd00800000000000000
+      internalID: 987565104624722635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Serene Village - Inside_768x768_26
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 287
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c14e796cfcf9e0800000000000000
+      internalID: -1586115438721251077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
