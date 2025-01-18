@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cloud_panorama_1_0: 4937295595487109390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
