@@ -6,7 +6,6 @@ public class CameraController : MonoBehaviour
 {
     //Serialized Fields
     public Transform player;
-    public float cameraDistance = -10;
     public float playerAlignment = 5;
 
     // Start is called before the first frame update
