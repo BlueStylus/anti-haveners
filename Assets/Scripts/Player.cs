@@ -7,7 +7,7 @@ public class Player : MonoBehaviour
 {
     //Fields- local persistent variables for specific Class (like health)
     public float walkSpeed = 5;
-    private Rigidbody2D _rigidBody;
+    public Rigidbody2D rigidBody;
     private BoxCollider2D _collider;
 
     public int _playerState = 0;
@@ -17,7 +17,7 @@ public class Player : MonoBehaviour
     void Start()
     {
         //set variables to components
-        _rigidBody = GetComponent<Rigidbody2D>();
+        rigidBody = GetComponent<Rigidbody2D>();
         _collider = GetComponent<BoxCollider2D>();
     }
 
@@ -39,7 +39,7 @@ public class Player : MonoBehaviour
             //movement inputs
             float horizontalInputs = Input.GetAxisRaw("Horizontal");
             float verticalInputs = Input.GetAxisRaw("Vertical");
-            _rigidBody.velocity = new Vector2(walkSpeed * horizontalInputs, walkSpeed * verticalInputs);
+            rigidBody.velocity = new Vector2(walkSpeed * horizontalInputs, walkSpeed * verticalInputs);
 
             //Debug.Log(_playerState);
 
