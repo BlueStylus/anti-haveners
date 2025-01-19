@@ -13,12 +13,16 @@ public class Player : MonoBehaviour
     public int _playerState = 0;
     // -1 is detected, 0 is default, 1 is hiding
 
+    public bool disableInputs;
+
     // Start is called before the first frame update
     void Start()
     {
         //set variables to components
         rigidBody = GetComponent<Rigidbody2D>();
         _collider = GetComponent<BoxCollider2D>();
+
+        disableInputs = false;
     }
 
     // Update is called once per frame
@@ -39,7 +43,9 @@ public class Player : MonoBehaviour
             //movement inputs
             float horizontalInputs = Input.GetAxisRaw("Horizontal");
             float verticalInputs = Input.GetAxisRaw("Vertical");
-            rigidBody.velocity = new Vector2(walkSpeed * horizontalInputs, walkSpeed * verticalInputs);
+            if (!disableInputs) {
+                rigidBody.velocity = new Vector2(walkSpeed * horizontalInputs, walkSpeed * verticalInputs);
+            }
 
             //Debug.Log(_playerState);
 

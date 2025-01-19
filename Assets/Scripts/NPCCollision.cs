@@ -9,11 +9,15 @@ public class NPCCollision : MonoBehaviour
     public NPCDetection detection;
     [SerializeField] private GameObject detection_cone;
 
+    private NPCDialogue dialogueComponent;
+
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
         rb = GetComponent<Rigidbody2D>();
+        dialogueComponent = GetComponent<NPCDialogue>();
+        dialogueComponent.enabled = false;
     }
 
     void OnCollisionEnter2D(Collision2D col)
@@ -23,6 +27,7 @@ public class NPCCollision : MonoBehaviour
             col.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0,0);
             rb.velocity = new Vector2(0,0);
             detection_cone.SetActive(false);
+            dialogueComponent.enabled = true;
         }
     }
 
