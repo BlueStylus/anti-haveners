@@ -10,15 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
-  m_Name: DoorTopOpen
+  m_Name: DoorTopOpenClose
   m_EditorClassIdentifier: 
   m_AnimatedSprites:
   - {fileID: -79512441, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
   - {fileID: 2094088020, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
   - {fileID: 1277659906, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
   - {fileID: -603334729, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
-  m_MinSpeed: 1
-  m_MaxSpeed: 1
+  - {fileID: -603334729, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
+  - {fileID: 1277659906, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
+  - {fileID: 2094088020, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
+  - {fileID: -79512441, guid: 24ac53d9b5f5845b2bb52989949fc0b5, type: 3}
+  m_MinSpeed: 8
+  m_MaxSpeed: 8
   m_AnimationStartTime: 0
   m_AnimationStartFrame: 0
   m_TileColliderType: 2
