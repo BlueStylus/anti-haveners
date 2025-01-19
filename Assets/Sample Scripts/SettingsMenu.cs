@@ -6,8 +6,8 @@ using UnityEngine.Audio;
 public class SettingsMenu : MonoBehaviour
 {
     // static variables are variables that there is only one instance of
-    public AudioMixer ambienceMixer;
-    public AudioMixer voiceMixer;
+    public AudioMixer musicMixer;
+    public AudioMixer soundMixer;
     public static float mouseSens = 0.5f;
     public bool captionToggler;
 
@@ -23,13 +23,13 @@ public class SettingsMenu : MonoBehaviour
 
     public void SetAmbienceVolume(float sliderValue)
     {
-        ambienceMixer.SetFloat("musicVolume", Mathf.Log10(sliderValue) * 20);
+        musicMixer.SetFloat("musicVolume", Mathf.Log10(sliderValue) * 20);
     }
 
     public void SetVoiceVolume(float sliderValue)
     {
 
-        voiceMixer.SetFloat("voiceVolume", Mathf.Log10(sliderValue) * 20);
+        soundMixer.SetFloat("voiceVolume", Mathf.Log10(sliderValue) * 20);
     }
 
     public void SetCaptionToggle(bool toggle)
