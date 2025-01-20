@@ -20,6 +20,11 @@ public class NPCDialogue : MonoBehaviour
     public GameObject dialogueSystemChoice2;
     public TextMeshProUGUI choice2Text;
 
+    private NPCBehavior behaviorComponent;
+
+    public GameObject detectionCone;
+    public GameObject detectionMeter;
+
     [System.Serializable]
     public class DialogueTree
     {
@@ -27,11 +32,16 @@ public class NPCDialogue : MonoBehaviour
         public string[] choices;
         public int jumpIfChoice1;
         public int jumpIfChoice2;
+        public bool finisher;
     }
 
     public DialogueTree[] dialogue;
 
     private int i = 0;
+
+    private bool finished;
+
+    private GameObject player;
 
     // Start is called before the first frame update
     void Start()
@@ -41,13 +51,18 @@ public class NPCDialogue : MonoBehaviour
         dialogueSystemPortrait.sprite = portrait;
         dialogueSystemName.text = npc_name;
 
+        behaviorComponent = GetComponent<NPCBehavior>();
+        player = GameObject.FindGameObjectWithTag("Player");
+
+        finished = false;
+
         DisplayText(i);
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButtonDown(0))
+        if (!finished && Input.GetMouseButtonDown(0))
         {
             PointerEventData pointerData = new PointerEventData(EventSystem.current)
             {
@@ -72,22 +87,42 @@ public class NPCDialogue : MonoBehaviour
                 // Debug.Log(i);
             }
         }
+        else if (finished && Input.GetMouseButtonDown(0))
+        {
+            this.enabled = false;
+            behaviorComponent.enabled = true;
+            player.GetComponent<Player>().disableInputs = false;
+            dialogueSystem.SetActive(false);
+            detectionCone.SetActive(false);
+            detectionMeter.SetActive(false);
+        }
     }
 
     void DisplayText(int i)
     {
         dialogueSystemText.text = dialogue[i].text;
-        if (dialogue[i].choices.Length != 0)
+        if (dialogue[i].finisher)
+        {
+            finished = true;
+        }
+
+        if (dialogue[i].choices.Length == 0)
+        {
+            dialogueSystemChoice1.SetActive(false);
+            dialogueSystemChoice2.SetActive(false);
+            
+        }
+        else if (dialogue[i].choices.Length == 1)
+        {
+            choice2Text.text = dialogue[i].choices[0];
+            dialogueSystemChoice2.SetActive(true);
+        }
+        else
         {
             choice1Text.text = dialogue[i].choices[0];
             choice2Text.text = dialogue[i].choices[1];
             dialogueSystemChoice1.SetActive(true);
             dialogueSystemChoice2.SetActive(true);
-        }
-        else
-        {
-            dialogueSystemChoice1.SetActive(false);
-            dialogueSystemChoice2.SetActive(false);
         }
     }
 

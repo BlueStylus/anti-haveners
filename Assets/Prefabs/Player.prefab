@@ -306,7 +306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   walkSpeed: 4
-  rigidBody: {fileID: 0}
+  rigidBody: {fileID: 3804747605172984571}
   _playerState: 0
   disableInputs: 0
 --- !u!1 &6429715110810702580
