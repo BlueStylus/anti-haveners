@@ -115,6 +115,7 @@ public class NPCDialogue : MonoBehaviour
         else if (dialogue[i].choices.Length == 1)
         {
             choice2Text.text = dialogue[i].choices[0];
+            dialogueSystemChoice1.SetActive(false);
             dialogueSystemChoice2.SetActive(true);
         }
         else
