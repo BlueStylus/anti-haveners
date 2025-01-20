@@ -154,7 +154,9 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      maya_0: 1141623309342657291
+      maya_1: 69856169903630337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

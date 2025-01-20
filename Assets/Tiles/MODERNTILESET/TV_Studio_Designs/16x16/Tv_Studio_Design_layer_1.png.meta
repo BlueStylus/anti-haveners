@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tv_Studio_Design_layer_1_0: -1322095940225988705
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
