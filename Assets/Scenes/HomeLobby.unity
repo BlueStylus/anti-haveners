@@ -1395,6 +1395,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+      propertyPath: m_TagString
+      value: DialogueSystem
+      objectReference: {fileID: 0}
     - target: {fileID: 5781670198881552223, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1599,6 +1603,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d1df1d245c5d741964cea5614bb9a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameOverDialogue: {fileID: 0}
   timeString: 
 --- !u!114 &1158376976
 MonoBehaviour:
@@ -1738,7 +1743,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -1205.59
+      value: -1148.74
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_SizeDelta.y
@@ -1774,7 +1779,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 635.5
+      value: 605.9
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1798,11 +1803,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4661341576871029587, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8554926075043752331, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_text
-      value: '[SPACE] to leave'
+      value: '[SPACE] to go to school'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

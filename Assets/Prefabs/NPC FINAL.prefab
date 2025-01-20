@@ -1222,7 +1222,9 @@ MonoBehaviour:
     jumpIfChoice1: 0
     jumpIfChoice2: 0
     finisher: 1
-  typingSpeed: 0.04
+  typingSpeed: 0.03
+  finished: 0
+  bustsKneecaps: 0
 --- !u!114 &4655807082380737831
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1241,7 +1243,7 @@ MonoBehaviour:
   doNotRotate:
   - {fileID: 2200088556771579248}
   - {fileID: 7520194250753926718}
-  - {fileID: 0}
+  - {fileID: 5949088935817218509}
   loop: 0
 --- !u!1 &7032762574048243120
 GameObject:

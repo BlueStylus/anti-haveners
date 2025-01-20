@@ -17,9 +17,11 @@ public class TimeTracker : MonoBehaviour
     private TimeSpan _startTime = new TimeSpan(9, 25, 0);
     private TimeSpan _currentTime;
     // Trigger time: 9:30 AM
-    private TimeSpan _endTriggerTime = new TimeSpan(9, 30, 0);
+    private TimeSpan _endTriggerTime = new TimeSpan(9, 31, 0);
 
     private TextMeshProUGUI timeText;
+
+    public GameObject gameOverDialogue;
 
     public bool HasReachedTargetTime { get; private set; } = false;
 
@@ -57,7 +59,7 @@ public class TimeTracker : MonoBehaviour
         // Update the UI text
         if (timeText != null)
         {
-            timeString = _currentTime.ToString(@"hh\:mm") + " AM";
+            timeString = _currentTime.ToString(@"h\:mm") + " AM";
             timeText.text = timeString;
         }
 
@@ -65,7 +67,17 @@ public class TimeTracker : MonoBehaviour
         if (!HasReachedTargetTime && _currentTime >= _endTriggerTime)
         {
             HasReachedTargetTime = true;
+            TriggerGameOverDialogue();
             Debug.Log("Game Over!");
+        }
+        
+        // For Game Over:
+        if (gameOverDialogue.GetComponent<NPCDialogue>() != null)
+        {
+            if (gameOverDialogue.GetComponent<NPCDialogue>().finished)
+            {
+                SceneManager.LoadScene("Bedroom");
+            }
         }
     }
 
@@ -81,5 +93,25 @@ public class TimeTracker : MonoBehaviour
             _currentTime = _startTime;
             HasReachedTargetTime = false;
         }
+    }
+
+    public void TriggerGameOverDialogue()
+    {
+        GameObject[] dialogueSystems = GameObject.FindGameObjectsWithTag("DialogueSystem");
+
+        foreach (GameObject ds in dialogueSystems)
+        {
+            ds.SetActive(false);
+        }
+
+        GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+
+        foreach (GameObject npc in npcs)
+        {
+            npc.GetComponent<NPCBehavior>().enabled = false;
+            npc.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+        }
+
+        gameOverDialogue.SetActive(true);
     }
 }

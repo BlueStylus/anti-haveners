@@ -48,7 +48,7 @@ public class NPCBehavior : MonoBehaviour
             StartCoroutine(Idle());
             // Move to the next point (looping back to start)
             index = (index + 1) % points.Length;
-            if (!loop)
+            if (index == 0 && !loop)
             {
                 this.enabled = false;
             }

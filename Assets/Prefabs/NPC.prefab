@@ -1039,7 +1039,7 @@ GameObject:
   - component: {fileID: 1087495737898523205}
   m_Layer: 5
   m_Name: Dialogue System
-  m_TagString: Untagged
+  m_TagString: DialogueSystem
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1565,6 +1565,9 @@ MonoBehaviour:
     jumpIfChoice1: 0
     jumpIfChoice2: 0
     finisher: 1
+  typingSpeed: 0.04
+  finished: 0
+  bustsKneecaps: 0
 --- !u!114 &4655807082380737831
 MonoBehaviour:
   m_ObjectHideFlags: 0
