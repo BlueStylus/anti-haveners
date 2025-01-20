@@ -38,6 +38,8 @@ public class NPCDialogue : MonoBehaviour
     public DialogueTree[] dialogue;
 
     [SerializeField] private float typingSpeed = 0.04f;
+    private bool canContinueDialogue = false;
+    [SerializeField] private GameObject continueIcon;
 
     private int i = 0;
 
@@ -66,7 +68,7 @@ public class NPCDialogue : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (!finished && Input.GetMouseButtonDown(0))
+        if (!finished && Input.GetMouseButtonDown(0) && canContinueDialogue)
         {
             PointerEventData pointerData = new PointerEventData(EventSystem.current)
             {
@@ -91,7 +93,7 @@ public class NPCDialogue : MonoBehaviour
                 // Debug.Log(i);
             }
         }
-        else if (finished && Input.GetMouseButtonDown(0))
+        else if (finished && Input.GetMouseButtonDown(0) && canContinueDialogue)
         {
             this.enabled = false;
             behaviorComponent.enabled = true;
@@ -104,34 +106,8 @@ public class NPCDialogue : MonoBehaviour
 
     void DisplayText(int i)
     {
-        if (dialogue[i].finisher)
-        {
-            finished = true;
-            if (bustsKneecaps)
-            {
-                player.GetComponent<Player>().walkSpeed = 2;
-            }
-        }
-
-        if (dialogue[i].choices.Length == 0)
-        {
-            dialogueSystemChoice1.SetActive(false);
-            dialogueSystemChoice2.SetActive(false);
-            
-        }
-        else if (dialogue[i].choices.Length == 1)
-        {
-            choice2Text.text = dialogue[i].choices[0];
-            dialogueSystemChoice1.SetActive(false);
-            dialogueSystemChoice2.SetActive(true);
-        }
-        else
-        {
-            choice1Text.text = dialogue[i].choices[0];
-            choice2Text.text = dialogue[i].choices[1];
-            dialogueSystemChoice1.SetActive(true);
-            dialogueSystemChoice2.SetActive(true);
-        }
+        dialogueSystemChoice1.SetActive(false);
+        dialogueSystemChoice2.SetActive(false);
 
         StartCoroutine(DisplayLine(dialogue[i].text));
     }
@@ -152,14 +128,51 @@ public class NPCDialogue : MonoBehaviour
 
     private IEnumerator DisplayLine(string line)
     {
+        continueIcon.SetActive(false);
+
         // empty the dialogue text
         dialogueSystemText.text = "";
+
+        canContinueDialogue = false;
 
         //display each letter at a time
         foreach (char letter in line.ToCharArray())
         {
             dialogueSystemText.text += letter;
             yield return new WaitForSeconds(typingSpeed);
+        }
+
+        if (dialogue[i].finisher)
+        {
+            finished = true;
+            if (bustsKneecaps)
+            {
+                player.GetComponent<Player>().walkSpeed = 2;
+            }
+        }
+
+        if (dialogue[i].choices.Length == 0)
+        {
+            canContinueDialogue = true;
+            continueIcon.SetActive(true);
+            dialogueSystemChoice1.SetActive(false);
+            dialogueSystemChoice2.SetActive(false);
+
+        }
+        else if (dialogue[i].choices.Length == 1)
+        {
+            continueIcon.SetActive(false);
+            choice2Text.text = dialogue[i].choices[0];
+            dialogueSystemChoice1.SetActive(false);
+            dialogueSystemChoice2.SetActive(true);
+        }
+        else
+        {
+            continueIcon.SetActive(false);
+            choice1Text.text = dialogue[i].choices[0];
+            choice2Text.text = dialogue[i].choices[1];
+            dialogueSystemChoice1.SetActive(true);
+            dialogueSystemChoice2.SetActive(true);
         }
     }
 }

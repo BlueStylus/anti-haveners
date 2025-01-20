@@ -119,223 +119,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &124007892
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.size
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].text
-      value: Maya, I really really need a goth mommy in my life, you know what I
-        mean?
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].text
-      value: "C\u2019mon, don\u2019t you see the vision? Life is just so unpredictable
-        without\u2019em!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].text
-      value: "I think it\u2019s just that I\u2019m the kinda person that needs someone
-        to tell them what to do a lotta times."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].text
-      value: "I dunno, like, maybe it\u2019s their, what do you call it, aesthetic?
-        Like the color palette (or the lack of\u2019em since we talkin\u2019 about
-        goth mommies you know). Also don\u2019t they just like feel authoritative?
-        Like you just wanna do whatever they tell you to? Ain\u2019t that fantastic?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].text
-      value: "I guess I actually dont have like a clear clear reason on why goth
-        mommies specifically, but yesterday I went to the annual corn festival at
-        Corny Daniel\u2019s Cornhub, the oldest establishment here in Rakesville,
-        for some fresh corn on the cob..."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].text
-      value: "...and ran into this lady in black with these wicked tall boots and,
-        like, this long robe that looked like it was almost defying gravity. She
-        just looked at me cuz I was kind of in her way and said \u201Cmove aside,
-        darling\u201D with the most most most sharp, piercing gaze possible."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].text
-      value: "I felt that my soul left my body immediately, you know? Felt like she\u2019s
-        too good for the corn festival! Gosh I can\u2019t stop thinking about this."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].text
-      value: "Like they don\u2019t even try to be who they are, they just are. Ain\u2019t
-        that beautiful."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].text
-      value: Oh shoot right its like happening right now! Go go go!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].text
-      value: "UGH but you\u2019re the only person I can talk abt this with! "
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].jumpIfChoice1
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].jumpIfChoice2
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice1
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice2
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].jumpIfChoice1
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].jumpIfChoice2
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].jumpIfChoice1
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].jumpIfChoice2
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[0].choices.Array.data[0]'
-      value: No what DO YOU MEAN????
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[0].choices.Array.data[1]'
-      value: "(Interrupt) Umm, I have a test and I\u2019m running la-"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[1].choices.Array.data[0]'
-      value: Ok, but why specifically goth mommies?
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[1].choices.Array.data[1]'
-      value: "(Interrupt) Well I\u2019ll tell u what to do if that\u2019s what you
-        want, GET OUT OF MY WAY I HAVE A TEST AT 9:30"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[2].choices.Array.data[0]'
-      value: Ok, but why specifically goth mommies?
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[2].choices.Array.data[1]'
-      value: "(Interrupt) Well I\u2019ll tell u what to do if that\u2019s what you
-        want, GET OUT OF MY WAY I HAVE A TEST AT 9:30"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[7].choices.Array.data[0]'
-      value: "Well\u2026 good luck then? Cuz I really need to hurry to go to my test."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[7].choices.Array.data[1]'
-      value: "You keep being delusional, I don\u2019t wanna be late to my test."
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_TagString
-      value: DialogueSystem
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -6.762285
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 9.116662
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6975395066381646140, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_Name
-      value: Misty
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
 --- !u!1 &367565379
 GameObject:
   m_ObjectHideFlags: 0
@@ -428,7 +211,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &796989275
+--- !u!1001 &2522805629416486495
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -436,237 +219,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: bustsKneecaps
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.size
-      value: 16
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].text
-      value: "Oh heyyyyyy Maya! I\u2019m so happy I get to see you so early in the
-        morning! I had a dream about you last night!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].text
-      value: Hear me out hear me out! I know you always pay attention to me!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].text
-      value: Yay! Perrrrfect!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].text
-      value: "So last night I was having trouble falling asleep so I was looking
-        at your shrine\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].text
-      value: Sorry, I meant photos that we took together when we went on that field
-        trip to the town hall together for that polisci class we were taking together.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].text
-      value: "It\u2019s funny how we have so many similar classes too, haha. Not
-        that I was spying on your pre-registration and signing up for the exact same
-        classes or anything like that."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].text
-      value: "Anyways, when I finally fell asleep I dreamt about us on that field
-        trip! Except this time it was just us, and the other annoying fodders\u2026
-        sorry, classmates, were not there to bother us at all!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].text
-      value: Not that piece of work Gretchen, not that nerd Eggbert, not even Mayor
-        Butler who was supposed to give a speech on that day.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].text
-      value: It was as if everyone else disappeared, and the entire Rakesville was
-        just for the two of us.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].text
-      value: "It IS! I have so much more I want to talk about! Are you free this
-        afternoon after school? Let\u2019s go hangout somewhere! Do you have a suggestion?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].text
-      value: "Oh yeah! I\u2019ve been wanting to try that place out someday so it\u2019s
-        juuust perfect. You\u2019ll see me after school then!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[11].text
-      value: "Did you just\u2026 interrupt me?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[12].text
-      value: Are you not interested in what I want to say?
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[13].text
-      value: How dare you How dare you HOW DARE YOU
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[14].text
-      value: HOW DARE YOU HOW DARE YOU HOW DARE YOU HOW DARE YOU HOW DARE YOU HOW
-        DARE YOU HOW DARE YOU HOW DARE YOU HOW DARE YOU
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[15].text
-      value: '*Busts your kneecaps*'
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[11].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[15].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice1
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice2
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].jumpIfChoice1
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].jumpIfChoice2
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].jumpIfChoice1
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].jumpIfChoice2
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].jumpIfChoice1
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].jumpIfChoice2
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].choices.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[1].choices.Array.data[0]'
-      value: Fine, be quick though!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[1].choices.Array.data[1]'
-      value: "(Interrupt) Sorry Ronald, but I\u2019m sort of running late for my
-        test."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[8].choices.Array.data[0]'
-      value: Wow, that sounded like a lovely dream...
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[8].choices.Array.data[1]'
-      value: (Interrupt) Sorry (NP3) for cutting this short, but I need to get to
-        the test and it sounds a little weird
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[9].choices.Array.data[0]'
-      value: "What about the caf\xE9 down the street?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[9].choices.Array.data[1]'
-      value: "Let\u2019s go to Notaburger for a quick bite!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[10].choices.Array.data[0]'
-      value: "What about the caf\xE9 down the street?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[10].choices.Array.data[1]'
-      value: "Let\u2019s go to Notaburger for a quick bite!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_TagString
-      value: DialogueSystem
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.299855
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalPosition.y
       value: 9.390036
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalPosition.z
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 1971482856057756492, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6975395066381646140, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 4892024390807021217, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
       propertyPath: m_Name
       value: Ronald
       objectReference: {fileID: 0}
@@ -674,8 +267,8 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
---- !u!1001 &1172721006
+  m_SourcePrefab: {fileID: 100100000, guid: 670ea395f293c064fa56a92b1a4ce636, type: 3}
+--- !u!1001 &4194863744344778804
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -683,188 +276,161 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.size
-      value: 10
+    - target: {fileID: 1814654096022621088, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
+      propertyPath: m_Name
+      value: Gretchen
       objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].text
-      value: 'Hey Maya, I learned yesterday that the color of an eggshell depends
-        on the breed. For example, the Araucana chicken has fancy blue shells! '
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].text
-      value: BUT, guess what is not dependent on the breed? The yolk colors! See,
-        the egg yolks are more decided by the specific diet; eating carrots, marigolds,
-        or even corn can give this bright, sunny orange shade that people love to
-        see.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].text
-      value: "Also, you gotta be careful now because I heard that there is a 0.0005%
-        chance that the particular egg you eat contains salmonella. So once in every
-        80 years roughly it\u2019s possible that you get salmonella from eating eggs."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].text
-      value: "I\u2019m not done yet! Did you know that in 2010, a hen from the United
-        Kingdom called Harriet hatched an egg that\u2019s 9.1 INCHES in diameter?
-        That\u2019s the biggest egg ever recorded in world history! In the 183 years
-        that this town existed we didn\u2019t even get one half as big!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].text
-      value: "Wait, but I wanted to show you the hard-boiled egg I brought to school
-        for breakfast that I just reheated in the microwave\u2026"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].text
-      value: '*The egg blows up*'
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].text
-      value: ' Oh, I was just gonna show you this hard-boiled egg I brought to school
-        for breakfast today! '
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].text
-      value: "Oh, It\u2019s an absolute beauty. I feel like I can already see the
-        deep orange yolk from the carotenoid-rich diet of its creator."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].text
-      value: "I just reheated it in the microwave, it\u2019s gonna be nice and warm! "
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].text
-      value: "OH GOD I DIDN\u2019T KNOW THAT OH MY GOD THANK YOU SO MUCH!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice1
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice2
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].jumpIfChoice1
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].jumpIfChoice2
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].jumpIfChoice1
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].choices.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].choices.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[3].choices.Array.data[0]'
-      value: "(Wow, they\u2019re so excited I don\u2019t even have a chance to interrupt\u2026)"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[3].choices.Array.data[1]'
-      value: (Interrupt) Can we talk about eggs later (NPC4)? I need to go take this
-        test right now.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[8].choices.Array.data[0]'
-      value: "HOLD UP! You\u2019re not supposed to reheat eggs in a microwave you
-        dummy! It\u2019s gonna BLOW UP!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[8].choices.Array.data[1]'
-      value: "(Interrupt) (Ugh, I really don\u2019t have time for this. I NEED to
-        just walk away right NOW)"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[9].choices.Array.data[0]'
-      value: "HOLD UP! You\u2019re not supposed to reheat eggs in a microwave you
-        dummy! It\u2019s gonna BLOW UP!"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[9].choices.Array.data[1]'
-      value: "(Interrupt) (Ugh, I really don\u2019t have time for this. I NEED to
-        just walk away right NOW)"
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_TagString
-      value: DialogueSystem
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 10.915847
+      value: -9.4
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 9.116662
+      value: -1.23
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalPosition.z
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3180708896431795227, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6975395066381646140, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5ed7173b5d1c5d4448eb11dc4b065c70, type: 3}
+--- !u!1001 &4569154558894428185
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3652023611694434404, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_Name
+      value: Misty
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.762285
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.116662
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6799467255784169019, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e0dc012f120fff446b16d14060bfa44f, type: 3}
+--- !u!1001 &6290432109910896844
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 10.915847
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 9.116662
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 81608319706319853, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 104795059749061467, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
       propertyPath: m_Name
       value: Eggbert
       objectReference: {fileID: 0}
@@ -872,8 +438,8 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
---- !u!1001 &1180549653
+  m_SourcePrefab: {fileID: 100100000, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+--- !u!1001 &6481271158155790774
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -881,417 +447,62 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].text
-      value: Good morning bestie! Are you ready for some TEA?
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[0].choices.Array.data[0]'
-      value: YES.
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_TagString
-      value: DialogueSystem
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.74809337
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.1348262
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6975395066381646140, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 463823119561234410, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_Name
       value: Fern
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
---- !u!1001 &2089696166
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.size
-      value: 14
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].text
-      value: Omg hii Maya! Come here I gotta tell u something craaazzzyyyy
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].text
-      value: Omg did u hear abt what happened to Charlene from the swim teammm? Like
-        she just found out yesterday that her bf highkey cheated on her during the
-        summerrr!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].text
-      value: 'Like, the really tall good-looking guy, we talked to him last time
-        at that party, I think his name was like Jerome or something? '
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].text
-      value: "And apparently he told her that it was with another guy in the same
-        frat!! Some guy named Gabe. Isn\u2019t that insaaaane???"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].text
-      value: "I-I don\u2019t mean being gay or bisexual of course! The cheating!
-        Like they were together for 3 years alreadyyy! And now he just walks out
-        to be with some fruitcake in his frat????"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].text
-      value: "So anyway tho the story is that Charlene heard from Jennifer that HER
-        bf Daniel was taking a nighttime drive up north when he saw Jerome\u2019s
-        car parked in that parking lot..."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].text
-      value: "...by that really famous field or whatever, you know, the one that
-        was the computer background, and you know, Charlene and Jennifer are besties
-        and so sometimes they do double dates so they know each other even though
-        Daniel is like the OPPOSITE of someone who Jerome would EVER hang out with
-        but anyway they\u2019re close and everything so Daniel is like oh i\u2019ll
-        go say hi to Jeromeeeee~"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].text
-      value: But then as he gets closer he sees two people GOING AT IT in the backseat
-        so hes like omggggggg and drives off to go back home.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].text
-      value: "So THEN, he goes back to Jennifer\u2019s place and is like babe i have
-        the ca-razzziest story to tell you rn, like i totally just saw Charlene and
-        Jerome loving it up in their car but then Charline is like\u2026 babe. i\u2019ve
-        been on the phone with Charline for, like, an entire hour."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].text
-      value: "So then DANIEL is like WHATTTTTT and goes over to Jerome\u2019s place
-        to check it out and he sees his car over in the driveway so Daniel goes up
-        to the door and GABE FROM THE FRAT ANSWERS."
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].text
-      value: Like, who does thattttttt????? If ur gonna cheat on someone at LEAST
-        answer ur door when someone knocks, like, you dont know whos gonna even be
-        there?!!?!? Anyway tho yaaaa it was crazzzieeeee.
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[11].text
-      value: OH I should also tell you Mr. Davidson was like totally looking for
-        you just now, he was all like Gretchen have you seen (name) and i was all
-        like noooo ill totally go look for them!!!!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[12].text
-      value: And now I found you!!!! So ya like whenever you have a spare moment
-        you should pop over to his classroom cuz like i think you need to take a
-        test or something??
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[13].text
-      value: But anyway tho yaaa okay this rumor is spreading like wildfire so if
-        you wanna get on the gossip train you gotta hop on now!!! Okay byeeeeeeeeeee!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].finisher
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[13].finisher
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].jumpIfChoice1
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].jumpIfChoice2
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice1
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].jumpIfChoice2
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].jumpIfChoice1
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].jumpIfChoice1
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].jumpIfChoice1
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].jumpIfChoice1
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].jumpIfChoice1
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].jumpIfChoice1
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].jumpIfChoice1
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].jumpIfChoice1
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].jumpIfChoice1
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[11].jumpIfChoice1
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[12].jumpIfChoice1
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[13].jumpIfChoice1
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[0].choices.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[1].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[2].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[3].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[4].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[5].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[6].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[7].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[8].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[9].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[10].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[11].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[12].choices.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: dialogue.Array.data[13].choices.Array.size
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[0].choices.Array.data[0]'
-      value: "What\u2019s going on?"
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[0].choices.Array.data[1]'
-      value: (Interrupt) Let me know later Gretch I need to go to a test!
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[1].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[2].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[3].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[4].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[5].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[6].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[7].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[8].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[9].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[10].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[11].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[12].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 2536269428386247984, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: 'dialogue.Array.data[13].choices.Array.data[0]'
-      value: YES I NEED TO GO THANK YOU BYE
-      objectReference: {fileID: 0}
-    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_TagString
-      value: DialogueSystem
-      objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.4
+      value: -0.74809337
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.23
+      value: -1.1348262
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalPosition.z
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5972745626226633008, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+    - target: {fileID: 3601337143487363965, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6975395066381646140, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
-      propertyPath: m_Name
-      value: Gretchen
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 050b5bb7334dcc741ad28de6d6d1bf07, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 367565382}
-  - {fileID: 124007892}
-  - {fileID: 796989275}
-  - {fileID: 1172721006}
-  - {fileID: 2089696166}
-  - {fileID: 1180549653}
+  - {fileID: 4569154558894428185}
+  - {fileID: 2522805629416486495}
+  - {fileID: 6290432109910896844}
+  - {fileID: 4194863744344778804}
+  - {fileID: 6481271158155790774}

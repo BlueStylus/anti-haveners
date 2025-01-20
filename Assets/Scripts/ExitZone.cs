@@ -9,6 +9,8 @@ public class ExitZone : MonoBehaviour
     private GameObject player;
     public int sceneIndex;
 
+    public DoorAnimation door;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -30,6 +32,7 @@ public class ExitZone : MonoBehaviour
     {
         if (collision.gameObject == player)
         {
+            door.enabled = false;
             inZone = true;
         }
     }
@@ -38,6 +41,7 @@ public class ExitZone : MonoBehaviour
     {
         if (collision.gameObject == player)
         {
+            door.enabled = true;
             inZone = false;
         }
     }
