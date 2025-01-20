@@ -54,12 +54,18 @@ public class DoorAnimation : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        hideInstructions.SetActive(true);
+        if (collision.gameObject == player)
+        {
+            hideInstructions.SetActive(true);
+        }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        hideInstructions.SetActive(false);
+        if (collision.gameObject == player)
+        {
+            hideInstructions.SetActive(false);
+        }
     }
 
     IEnumerator BottomTiles()

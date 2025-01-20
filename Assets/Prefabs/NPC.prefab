@@ -565,7 +565,7 @@ GameObject:
   - component: {fileID: 2200088556771579248}
   - component: {fileID: 6219101079011584740}
   m_Layer: 5
-  m_Name: Slider
+  m_Name: DetectionMeter
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1350,6 +1350,7 @@ GameObject:
   - component: {fileID: 8608720198890285974}
   - component: {fileID: 5717981294029456188}
   - component: {fileID: 2536269428386247984}
+  - component: {fileID: 4655807082380737831}
   m_Layer: 0
   m_Name: NPC
   m_TagString: NPC
@@ -1539,25 +1540,50 @@ MonoBehaviour:
   choice1Text: {fileID: 7606293340037282391}
   dialogueSystemChoice2: {fileID: 7530996803111928849}
   choice2Text: {fileID: 7916027413857154352}
+  detectionCone: {fileID: 8293570261802699453}
+  detectionMeter: {fileID: 3586127165332877462}
   dialogue:
   - text: Hi everyone! My name is Monika! So nice to meet you~
     choices: []
     jumpIfChoice1: 0
     jumpIfChoice2: 0
+    finisher: 0
   - text: 'Here is the first choice:'
     choices:
     - I'm going to win!
     - I'm going to lose!
     jumpIfChoice1: 2
     jumpIfChoice2: 3
+    finisher: 0
   - text: You chose to win!
     choices: []
     jumpIfChoice1: 0
     jumpIfChoice2: 0
+    finisher: 1
   - text: You chose to lose!
     choices: []
     jumpIfChoice1: 0
     jumpIfChoice2: 0
+    finisher: 1
+--- !u!114 &4655807082380737831
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6975395066381646140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97f6e4a54198514ba3b956dfe2906a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  points: []
+  speed: 5
+  idleTime: 1
+  doNotRotate:
+  - {fileID: 2200088556771579248}
+  - {fileID: 7520194250753926718}
+  - {fileID: 4295476376942898166}
 --- !u!1 &7032762574048243120
 GameObject:
   m_ObjectHideFlags: 0
