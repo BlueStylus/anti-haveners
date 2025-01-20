@@ -1,0 +1,7794 @@
+fileFormatVersion: 2
+guid: f057efce2f89b56458586982d76621ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7662616043907387750
+    second: GenericStudent4_0
+  - first:
+      213: -1420061057485085937
+    second: GenericStudent4_1
+  - first:
+      213: 3830693731728398445
+    second: GenericStudent4_2
+  - first:
+      213: -7427819565674957631
+    second: GenericStudent4_3
+  - first:
+      213: 1071350325679494621
+    second: GenericStudent4_4
+  - first:
+      213: 7279029084718438451
+    second: GenericStudent4_5
+  - first:
+      213: 1009356972144958755
+    second: GenericStudent4_6
+  - first:
+      213: -9222600310167898077
+    second: GenericStudent4_7
+  - first:
+      213: 1103801906797087148
+    second: GenericStudent4_8
+  - first:
+      213: -6997334370257104661
+    second: GenericStudent4_9
+  - first:
+      213: 5349477227812849261
+    second: GenericStudent4_10
+  - first:
+      213: 6361386509816300520
+    second: GenericStudent4_11
+  - first:
+      213: -5793031804479673175
+    second: GenericStudent4_12
+  - first:
+      213: 2748818465802044183
+    second: GenericStudent4_13
+  - first:
+      213: 2455935956984550058
+    second: GenericStudent4_14
+  - first:
+      213: 8677041446065108758
+    second: GenericStudent4_15
+  - first:
+      213: -3200755278843423124
+    second: GenericStudent4_16
+  - first:
+      213: -5692951162765539971
+    second: GenericStudent4_17
+  - first:
+      213: -6988420603923646303
+    second: GenericStudent4_18
+  - first:
+      213: 5070464356687636063
+    second: GenericStudent4_19
+  - first:
+      213: 1826536215499556805
+    second: GenericStudent4_20
+  - first:
+      213: -8623519388295187812
+    second: GenericStudent4_21
+  - first:
+      213: 4174278714601475934
+    second: GenericStudent4_22
+  - first:
+      213: 4312132606954043347
+    second: GenericStudent4_23
+  - first:
+      213: -642435706681692352
+    second: GenericStudent4_24
+  - first:
+      213: 5282755447279892719
+    second: GenericStudent4_25
+  - first:
+      213: 2256219895066858589
+    second: GenericStudent4_26
+  - first:
+      213: 1908805264055588421
+    second: GenericStudent4_27
+  - first:
+      213: 1278863445197310271
+    second: GenericStudent4_28
+  - first:
+      213: -816127967937725471
+    second: GenericStudent4_29
+  - first:
+      213: -2719046159164524523
+    second: GenericStudent4_30
+  - first:
+      213: 3553929837014152813
+    second: GenericStudent4_31
+  - first:
+      213: 8127467106364564303
+    second: GenericStudent4_32
+  - first:
+      213: 6086747269859041398
+    second: GenericStudent4_33
+  - first:
+      213: 2369688654926179021
+    second: GenericStudent4_34
+  - first:
+      213: 6746022735172016555
+    second: GenericStudent4_35
+  - first:
+      213: 4290512668775554604
+    second: GenericStudent4_36
+  - first:
+      213: -8971324976725112666
+    second: GenericStudent4_37
+  - first:
+      213: 4683305823198083916
+    second: GenericStudent4_38
+  - first:
+      213: 609181967908067930
+    second: GenericStudent4_39
+  - first:
+      213: -1943651843721504956
+    second: GenericStudent4_40
+  - first:
+      213: -7738182407112176598
+    second: GenericStudent4_41
+  - first:
+      213: -2461323732852424205
+    second: GenericStudent4_42
+  - first:
+      213: -4706197430684770894
+    second: GenericStudent4_43
+  - first:
+      213: 6000813218504815197
+    second: GenericStudent4_44
+  - first:
+      213: 7998497591573521954
+    second: GenericStudent4_45
+  - first:
+      213: -1908268701196141915
+    second: GenericStudent4_46
+  - first:
+      213: -1343177970016399980
+    second: GenericStudent4_47
+  - first:
+      213: 5724440245568170551
+    second: GenericStudent4_48
+  - first:
+      213: -1909117262713032972
+    second: GenericStudent4_49
+  - first:
+      213: -1121704690578356694
+    second: GenericStudent4_50
+  - first:
+      213: 2396961016646619867
+    second: GenericStudent4_51
+  - first:
+      213: -1915212516787408209
+    second: GenericStudent4_52
+  - first:
+      213: -8094570227553648841
+    second: GenericStudent4_53
+  - first:
+      213: -3508746406828336933
+    second: GenericStudent4_54
+  - first:
+      213: -3902783197390044252
+    second: GenericStudent4_55
+  - first:
+      213: -3925435138387533005
+    second: GenericStudent4_56
+  - first:
+      213: -314615631896059060
+    second: GenericStudent4_57
+  - first:
+      213: -5411964657472001625
+    second: GenericStudent4_58
+  - first:
+      213: 8843886707211084954
+    second: GenericStudent4_59
+  - first:
+      213: 6404581979056192117
+    second: GenericStudent4_60
+  - first:
+      213: -5854881352328749142
+    second: GenericStudent4_61
+  - first:
+      213: 7043616004031619441
+    second: GenericStudent4_62
+  - first:
+      213: 1388995916474988478
+    second: GenericStudent4_63
+  - first:
+      213: -6824063172182898613
+    second: GenericStudent4_64
+  - first:
+      213: -4054413203239278856
+    second: GenericStudent4_65
+  - first:
+      213: -5312035783215307479
+    second: GenericStudent4_66
+  - first:
+      213: 3440121884208184723
+    second: GenericStudent4_67
+  - first:
+      213: 4764827856923255132
+    second: GenericStudent4_68
+  - first:
+      213: -945117755511730408
+    second: GenericStudent4_69
+  - first:
+      213: 967659829172740394
+    second: GenericStudent4_70
+  - first:
+      213: -6114269046016962041
+    second: GenericStudent4_71
+  - first:
+      213: -5629910208242651445
+    second: GenericStudent4_72
+  - first:
+      213: 8302520962176425301
+    second: GenericStudent4_73
+  - first:
+      213: 3040877632796808340
+    second: GenericStudent4_74
+  - first:
+      213: 8683473379238536973
+    second: GenericStudent4_75
+  - first:
+      213: -3031694257781249129
+    second: GenericStudent4_76
+  - first:
+      213: 1347183873138793965
+    second: GenericStudent4_77
+  - first:
+      213: 1545769214514779159
+    second: GenericStudent4_78
+  - first:
+      213: 3596379269758521369
+    second: GenericStudent4_79
+  - first:
+      213: -7494721702613649496
+    second: GenericStudent4_80
+  - first:
+      213: -7800293639336241839
+    second: GenericStudent4_81
+  - first:
+      213: -8331122512339044891
+    second: GenericStudent4_82
+  - first:
+      213: -4910630135923862701
+    second: GenericStudent4_83
+  - first:
+      213: 1024468478722003528
+    second: GenericStudent4_84
+  - first:
+      213: -7216806277018420140
+    second: GenericStudent4_85
+  - first:
+      213: -9211366157315957007
+    second: GenericStudent4_86
+  - first:
+      213: -4508994787871998433
+    second: GenericStudent4_87
+  - first:
+      213: 2298434854927215826
+    second: GenericStudent4_88
+  - first:
+      213: -6180218131099674663
+    second: GenericStudent4_89
+  - first:
+      213: 1212266172207875319
+    second: GenericStudent4_90
+  - first:
+      213: 308847602219953282
+    second: GenericStudent4_91
+  - first:
+      213: -8872287466541027502
+    second: GenericStudent4_92
+  - first:
+      213: -4527313863342269325
+    second: GenericStudent4_93
+  - first:
+      213: 5389943825107246621
+    second: GenericStudent4_94
+  - first:
+      213: -4462462314138357070
+    second: GenericStudent4_95
+  - first:
+      213: -7864858533546518638
+    second: GenericStudent4_96
+  - first:
+      213: 1684640448375490127
+    second: GenericStudent4_97
+  - first:
+      213: 6676286640733705852
+    second: GenericStudent4_98
+  - first:
+      213: -6243036325234640276
+    second: GenericStudent4_99
+  - first:
+      213: 3258050651919102339
+    second: GenericStudent4_100
+  - first:
+      213: 7505873852802813258
+    second: GenericStudent4_101
+  - first:
+      213: -9112790137264250859
+    second: GenericStudent4_102
+  - first:
+      213: 311353387624266272
+    second: GenericStudent4_103
+  - first:
+      213: -4628594372496290822
+    second: GenericStudent4_104
+  - first:
+      213: -4556019215902182111
+    second: GenericStudent4_105
+  - first:
+      213: 2085257241025786363
+    second: GenericStudent4_106
+  - first:
+      213: 6413259359239288125
+    second: GenericStudent4_107
+  - first:
+      213: -2202573597074931328
+    second: GenericStudent4_108
+  - first:
+      213: 8567359872250951026
+    second: GenericStudent4_109
+  - first:
+      213: 8696148670567808766
+    second: GenericStudent4_110
+  - first:
+      213: 7107140897650474619
+    second: GenericStudent4_111
+  - first:
+      213: 6119315021826389491
+    second: GenericStudent4_112
+  - first:
+      213: -8300924469145566792
+    second: GenericStudent4_113
+  - first:
+      213: 8482436463087919606
+    second: GenericStudent4_114
+  - first:
+      213: -1492256796585544758
+    second: GenericStudent4_115
+  - first:
+      213: 398779602565573702
+    second: GenericStudent4_116
+  - first:
+      213: -1905998367985467192
+    second: GenericStudent4_117
+  - first:
+      213: -3735928686731270102
+    second: GenericStudent4_118
+  - first:
+      213: 6194597597513716651
+    second: GenericStudent4_119
+  - first:
+      213: -1885116564557088003
+    second: GenericStudent4_120
+  - first:
+      213: -3555338937060401715
+    second: GenericStudent4_121
+  - first:
+      213: -5301122327752477749
+    second: GenericStudent4_122
+  - first:
+      213: 6290835880340470546
+    second: GenericStudent4_123
+  - first:
+      213: -3492768485680865880
+    second: GenericStudent4_124
+  - first:
+      213: -7024666549760758561
+    second: GenericStudent4_125
+  - first:
+      213: -3445376170970943079
+    second: GenericStudent4_126
+  - first:
+      213: 6284198340969969314
+    second: GenericStudent4_127
+  - first:
+      213: -4024258321510307430
+    second: GenericStudent4_128
+  - first:
+      213: 5040179497095585597
+    second: GenericStudent4_129
+  - first:
+      213: -1406026224417013690
+    second: GenericStudent4_130
+  - first:
+      213: -6337390062777161079
+    second: GenericStudent4_131
+  - first:
+      213: -6761347258143058215
+    second: GenericStudent4_132
+  - first:
+      213: -1287327243738289938
+    second: GenericStudent4_133
+  - first:
+      213: -5191351426874996230
+    second: GenericStudent4_134
+  - first:
+      213: 2985053702164784346
+    second: GenericStudent4_135
+  - first:
+      213: -1054502556715452118
+    second: GenericStudent4_136
+  - first:
+      213: -6366140938681800827
+    second: GenericStudent4_137
+  - first:
+      213: -5820619339453269650
+    second: GenericStudent4_138
+  - first:
+      213: 1327287763814495196
+    second: GenericStudent4_139
+  - first:
+      213: 4489699290953686710
+    second: GenericStudent4_140
+  - first:
+      213: 899017428214698354
+    second: GenericStudent4_141
+  - first:
+      213: 3170166815510172194
+    second: GenericStudent4_142
+  - first:
+      213: -2649394742916596733
+    second: GenericStudent4_143
+  - first:
+      213: -812638574203476543
+    second: GenericStudent4_144
+  - first:
+      213: -698772248252304931
+    second: GenericStudent4_145
+  - first:
+      213: 8465466100355603532
+    second: GenericStudent4_146
+  - first:
+      213: -3881759114928660243
+    second: GenericStudent4_147
+  - first:
+      213: 8966454278206195397
+    second: GenericStudent4_148
+  - first:
+      213: 2780635196349115713
+    second: GenericStudent4_149
+  - first:
+      213: -2455255429871888075
+    second: GenericStudent4_150
+  - first:
+      213: -5337465955938916867
+    second: GenericStudent4_151
+  - first:
+      213: -1895821671204597905
+    second: GenericStudent4_152
+  - first:
+      213: 3390278749841197970
+    second: GenericStudent4_153
+  - first:
+      213: -7803666969068671622
+    second: GenericStudent4_154
+  - first:
+      213: -9074609570910194596
+    second: GenericStudent4_155
+  - first:
+      213: -3611625521188680934
+    second: GenericStudent4_156
+  - first:
+      213: -1903652623968423436
+    second: GenericStudent4_157
+  - first:
+      213: -5212771285963601119
+    second: GenericStudent4_158
+  - first:
+      213: -1856223578477830853
+    second: GenericStudent4_159
+  - first:
+      213: -1865973989380006954
+    second: GenericStudent4_160
+  - first:
+      213: 1530516005338213000
+    second: GenericStudent4_161
+  - first:
+      213: -5053125446631844259
+    second: GenericStudent4_162
+  - first:
+      213: -3320413421732971649
+    second: GenericStudent4_163
+  - first:
+      213: -2996484380977542682
+    second: GenericStudent4_164
+  - first:
+      213: -4878216031000264188
+    second: GenericStudent4_165
+  - first:
+      213: -6004236718330710355
+    second: GenericStudent4_166
+  - first:
+      213: -2305458347119060370
+    second: GenericStudent4_167
+  - first:
+      213: -2824300396493814777
+    second: GenericStudent4_168
+  - first:
+      213: 1046737505241447580
+    second: GenericStudent4_169
+  - first:
+      213: -5112569911017781022
+    second: GenericStudent4_170
+  - first:
+      213: -3454460253110792313
+    second: GenericStudent4_171
+  - first:
+      213: -1779034365205478050
+    second: GenericStudent4_172
+  - first:
+      213: 509428084242695533
+    second: GenericStudent4_173
+  - first:
+      213: -5352406314792279009
+    second: GenericStudent4_174
+  - first:
+      213: -7285659538690127425
+    second: GenericStudent4_175
+  - first:
+      213: 7855492605216283394
+    second: GenericStudent4_176
+  - first:
+      213: -2428928423273334596
+    second: GenericStudent4_177
+  - first:
+      213: -5851835951673046169
+    second: GenericStudent4_178
+  - first:
+      213: 1048279939403323407
+    second: GenericStudent4_179
+  - first:
+      213: -7362708263506525522
+    second: GenericStudent4_180
+  - first:
+      213: -1864821255441348546
+    second: GenericStudent4_181
+  - first:
+      213: 8030268083054591979
+    second: GenericStudent4_182
+  - first:
+      213: 616595795029192115
+    second: GenericStudent4_183
+  - first:
+      213: 2223791243710544060
+    second: GenericStudent4_184
+  - first:
+      213: -5663259376630890460
+    second: GenericStudent4_185
+  - first:
+      213: -5414686316488327402
+    second: GenericStudent4_186
+  - first:
+      213: 852171630362831282
+    second: GenericStudent4_187
+  - first:
+      213: -7365995628501197256
+    second: GenericStudent4_188
+  - first:
+      213: -7773211480215089400
+    second: GenericStudent4_189
+  - first:
+      213: -1658055303886404503
+    second: GenericStudent4_190
+  - first:
+      213: -1013273804605581119
+    second: GenericStudent4_191
+  - first:
+      213: -761791204858723864
+    second: GenericStudent4_192
+  - first:
+      213: 858736655359511082
+    second: GenericStudent4_193
+  - first:
+      213: 3115181071222661883
+    second: GenericStudent4_194
+  - first:
+      213: 3462112366887154990
+    second: GenericStudent4_195
+  - first:
+      213: 4684436188126262321
+    second: GenericStudent4_196
+  - first:
+      213: -2693840245405338515
+    second: GenericStudent4_197
+  - first:
+      213: -1554555152515751389
+    second: GenericStudent4_198
+  - first:
+      213: 4121255962954552179
+    second: GenericStudent4_199
+  - first:
+      213: 450284036688616684
+    second: GenericStudent4_200
+  - first:
+      213: 7469809631265321636
+    second: GenericStudent4_201
+  - first:
+      213: 4349955533600513449
+    second: GenericStudent4_202
+  - first:
+      213: 1783383346662421516
+    second: GenericStudent4_203
+  - first:
+      213: 1600951502369222133
+    second: GenericStudent4_204
+  - first:
+      213: -5029349307614866525
+    second: GenericStudent4_205
+  - first:
+      213: 3607462513916572939
+    second: GenericStudent4_206
+  - first:
+      213: 8790670975347703560
+    second: GenericStudent4_207
+  - first:
+      213: -310592134586200610
+    second: GenericStudent4_208
+  - first:
+      213: 484354775463008623
+    second: GenericStudent4_209
+  - first:
+      213: -5374432813485197579
+    second: GenericStudent4_210
+  - first:
+      213: -2689295731989724036
+    second: GenericStudent4_211
+  - first:
+      213: 8936518975109099279
+    second: GenericStudent4_212
+  - first:
+      213: -6449680397990948159
+    second: GenericStudent4_213
+  - first:
+      213: -6861864866920643859
+    second: GenericStudent4_214
+  - first:
+      213: -8597676003790941918
+    second: GenericStudent4_215
+  - first:
+      213: 2033370740013786397
+    second: GenericStudent4_216
+  - first:
+      213: 2736056435430929044
+    second: GenericStudent4_217
+  - first:
+      213: 4313661946683296753
+    second: GenericStudent4_218
+  - first:
+      213: 2315618847946341632
+    second: GenericStudent4_219
+  - first:
+      213: -4081647171132862943
+    second: GenericStudent4_220
+  - first:
+      213: 6873953279050939845
+    second: GenericStudent4_221
+  - first:
+      213: 6121638136192017923
+    second: GenericStudent4_222
+  - first:
+      213: 177744113742797954
+    second: GenericStudent4_223
+  - first:
+      213: -8627438508994735647
+    second: GenericStudent4_224
+  - first:
+      213: -5382715491388883928
+    second: GenericStudent4_225
+  - first:
+      213: 1945566177639553590
+    second: GenericStudent4_226
+  - first:
+      213: 5901648766099216447
+    second: GenericStudent4_227
+  - first:
+      213: 8834163154632147332
+    second: GenericStudent4_228
+  - first:
+      213: -7092929561147890469
+    second: GenericStudent4_229
+  - first:
+      213: 7892914921187741986
+    second: GenericStudent4_230
+  - first:
+      213: -3853730560549955248
+    second: GenericStudent4_231
+  - first:
+      213: 2609021009838888788
+    second: GenericStudent4_232
+  - first:
+      213: -7863269476184178334
+    second: GenericStudent4_233
+  - first:
+      213: -8161565958242343125
+    second: GenericStudent4_234
+  - first:
+      213: 2487794223647096353
+    second: GenericStudent4_235
+  - first:
+      213: 2823866068107566201
+    second: GenericStudent4_236
+  - first:
+      213: -9097912984889556555
+    second: GenericStudent4_237
+  - first:
+      213: -7877798888381302917
+    second: GenericStudent4_238
+  - first:
+      213: 7058328595269628166
+    second: GenericStudent4_239
+  - first:
+      213: -1417927852506464052
+    second: GenericStudent4_240
+  - first:
+      213: -4423841838249232897
+    second: GenericStudent4_241
+  - first:
+      213: 4962505398454362959
+    second: GenericStudent4_242
+  - first:
+      213: -8495226165113169847
+    second: GenericStudent4_243
+  - first:
+      213: 1057078436023177037
+    second: GenericStudent4_244
+  - first:
+      213: 2598817961119752000
+    second: GenericStudent4_245
+  - first:
+      213: 4482361758575614547
+    second: GenericStudent4_246
+  - first:
+      213: 7999221604368952824
+    second: GenericStudent4_247
+  - first:
+      213: 1331851151180312761
+    second: GenericStudent4_248
+  - first:
+      213: 5096560362363100209
+    second: GenericStudent4_249
+  - first:
+      213: 1177974804168676701
+    second: GenericStudent4_250
+  - first:
+      213: 7258418045919901540
+    second: GenericStudent4_251
+  - first:
+      213: 6674170166103864391
+    second: GenericStudent4_252
+  - first:
+      213: 4105650626940075348
+    second: GenericStudent4_253
+  - first:
+      213: -9110603837608602826
+    second: GenericStudent4_254
+  - first:
+      213: 8061340570406243722
+    second: GenericStudent4_255
+  - first:
+      213: -1411894708068774571
+    second: GenericStudent4_256
+  - first:
+      213: 4553020220134168265
+    second: GenericStudent4_257
+  - first:
+      213: -1682061560343021736
+    second: GenericStudent4_258
+  - first:
+      213: -7626728040961306248
+    second: GenericStudent4_259
+  - first:
+      213: -1628414317119584540
+    second: GenericStudent4_260
+  - first:
+      213: 3759497051170404549
+    second: GenericStudent4_261
+  - first:
+      213: -6341968721695622086
+    second: GenericStudent4_262
+  - first:
+      213: 2235315906363227375
+    second: GenericStudent4_263
+  - first:
+      213: 1917099929872027067
+    second: GenericStudent4_264
+  - first:
+      213: -7903700149264856280
+    second: GenericStudent4_265
+  - first:
+      213: -8466839575558203598
+    second: GenericStudent4_266
+  - first:
+      213: -9037584692267116478
+    second: GenericStudent4_267
+  - first:
+      213: 7397176441768706525
+    second: GenericStudent4_268
+  - first:
+      213: 922549103759410447
+    second: GenericStudent4_269
+  - first:
+      213: 8795062844355483421
+    second: GenericStudent4_270
+  - first:
+      213: -1133339255002967134
+    second: GenericStudent4_271
+  - first:
+      213: 5381692350412299551
+    second: GenericStudent4_272
+  - first:
+      213: -3712904975315906061
+    second: GenericStudent4_273
+  - first:
+      213: -4082965947247854607
+    second: GenericStudent4_274
+  - first:
+      213: 8294661339403739634
+    second: GenericStudent4_275
+  - first:
+      213: 2693283528986061767
+    second: GenericStudent4_276
+  - first:
+      213: 4646089402686548059
+    second: GenericStudent4_277
+  - first:
+      213: 4557022007101469954
+    second: GenericStudent4_278
+  - first:
+      213: 4868218335156914813
+    second: GenericStudent4_279
+  - first:
+      213: 5100128238997958837
+    second: GenericStudent4_280
+  - first:
+      213: 917149975877325267
+    second: GenericStudent4_281
+  - first:
+      213: -6409781234589839510
+    second: GenericStudent4_282
+  - first:
+      213: -765659073422434069
+    second: GenericStudent4_283
+  - first:
+      213: -8823405970679273090
+    second: GenericStudent4_284
+  - first:
+      213: -2461134529568203817
+    second: GenericStudent4_285
+  - first:
+      213: -4071676411951197646
+    second: GenericStudent4_286
+  - first:
+      213: -1279081451598611797
+    second: GenericStudent4_287
+  - first:
+      213: -3985073538459010700
+    second: GenericStudent4_288
+  - first:
+      213: 65059235379734905
+    second: GenericStudent4_289
+  - first:
+      213: -8930661623333469203
+    second: GenericStudent4_290
+  - first:
+      213: 8950366954554294097
+    second: GenericStudent4_291
+  - first:
+      213: 4129031637403924953
+    second: GenericStudent4_292
+  - first:
+      213: 298399039928857751
+    second: GenericStudent4_293
+  - first:
+      213: -484409396508337215
+    second: GenericStudent4_294
+  - first:
+      213: -4016179091401542644
+    second: GenericStudent4_295
+  - first:
+      213: -5001210287983470487
+    second: GenericStudent4_296
+  - first:
+      213: 3809659310243205292
+    second: GenericStudent4_297
+  - first:
+      213: -6522890586275674213
+    second: GenericStudent4_298
+  - first:
+      213: 7788504090752609737
+    second: GenericStudent4_299
+  - first:
+      213: 5031305434477032801
+    second: GenericStudent4_300
+  - first:
+      213: -4256085371892682173
+    second: GenericStudent4_301
+  - first:
+      213: 579493946339005132
+    second: GenericStudent4_302
+  - first:
+      213: 4724100005643362889
+    second: GenericStudent4_303
+  - first:
+      213: 5611650173913540245
+    second: GenericStudent4_304
+  - first:
+      213: -1621852630628007473
+    second: GenericStudent4_305
+  - first:
+      213: 1191115130689542605
+    second: GenericStudent4_306
+  - first:
+      213: 3639348123217389700
+    second: GenericStudent4_307
+  - first:
+      213: -5117988454277648425
+    second: GenericStudent4_308
+  - first:
+      213: -683889750537475013
+    second: GenericStudent4_309
+  - first:
+      213: 5345302658972657802
+    second: GenericStudent4_310
+  - first:
+      213: 4017443657723962605
+    second: GenericStudent4_311
+  - first:
+      213: 2319802104473494557
+    second: GenericStudent4_312
+  - first:
+      213: 9132960198165898478
+    second: GenericStudent4_313
+  - first:
+      213: 4503111085796827187
+    second: GenericStudent4_314
+  - first:
+      213: -1440908451156050146
+    second: GenericStudent4_315
+  - first:
+      213: 6856652371505565609
+    second: GenericStudent4_316
+  - first:
+      213: 1374654101351027950
+    second: GenericStudent4_317
+  - first:
+      213: -8088701787710194592
+    second: GenericStudent4_318
+  - first:
+      213: -3007903387362004386
+    second: GenericStudent4_319
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GenericStudent4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1215
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6611f4391b4175a60800000000000000
+      internalID: 7662616043907387750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1215
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f036c35fdfdea4ce0800000000000000
+      internalID: -1420061057485085937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1215
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d689cf237ab592530800000000000000
+      internalID: 3830693731728398445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1215
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47f3495751be890800000000000000
+      internalID: -7427819565674957631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd51028e1733ede00800000000000000
+      internalID: 1071350325679494621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3381168f26e440560800000000000000
+      internalID: 7279029084718438451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1151
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d934081d4f10e00800000000000000
+      internalID: 1009356972144958755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_7
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1151
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328f80f91edb20080800000000000000
+      internalID: -9222600310167898077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca90a0d6cfd715f00800000000000000
+      internalID: 1103801906797087148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be09136b67974ee90800000000000000
+      internalID: -6997334370257104661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1151
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6683d922392d3a40800000000000000
+      internalID: 5349477227812849261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_11
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3009c935f284850800000000000000
+      internalID: 6361386509816300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_12
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ace27144440b9fa0800000000000000
+      internalID: -5793031804479673175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1151
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7134a2ea4d3c52620800000000000000
+      internalID: 2748818465802044183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_14
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1151
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa25c23adbc351220800000000000000
+      internalID: 2455935956984550058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6177d06e83b0b6870800000000000000
+      internalID: 8677041446065108758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_16
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1151
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66d49f3802a493d0800000000000000
+      internalID: -3200755278843423124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_17
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1151
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7586bb74139ef0b0800000000000000
+      internalID: -5692951162765539971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a83c1aac74240f90800000000000000
+      internalID: -6988420603923646303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1089
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5665aac778ed5640800000000000000
+      internalID: 5070464356687636063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7cc36b209295910800000000000000
+      internalID: 1826536215499556805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92b8f24eca135880800000000000000
+      internalID: -8623519388295187812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1089
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f8b49ef540ee930800000000000000
+      internalID: 4174278714601475934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7ffd562c5c7db30800000000000000
+      internalID: 4312132606954043347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1087
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fe538e02c9517f0800000000000000
+      internalID: -642435706681692352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1023
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8b06e071e105940800000000000000
+      internalID: 5282755447279892719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1023
+        width: 34
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5411a46a04bf4f10800000000000000
+      internalID: 2256219895066858589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_27
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1089
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 546dd6d36407d7a10800000000000000
+      internalID: 1908805264055588421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39c737178f6fb110800000000000000
+      internalID: 1278863445197310271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_29
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb7fcbefe78ca4f0800000000000000
+      internalID: -816127967937725471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1089
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518bb13ace1044ad0800000000000000
+      internalID: -2719046159164524523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_31
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1087
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66f3e37b58125130800000000000000
+      internalID: 3553929837014152813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1087
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f432886a5409ac070800000000000000
+      internalID: 8127467106364564303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1049
+        width: 193
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670e6899468787450800000000000000
+      internalID: 6086747269859041398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1049
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcae529c643d2e020800000000000000
+      internalID: 2369688654926179021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1057
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba913a88fefae9d50800000000000000
+      internalID: 6746022735172016555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1031
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e1ea64a86fa8b30800000000000000
+      internalID: 4290512668775554604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1023
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8c5bd37737f7380800000000000000
+      internalID: -8971324976725112666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_38
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1041
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7d3e35d17ef040800000000000000
+      internalID: 4683305823198083916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5adbb0b5cf347800800000000000000
+      internalID: 609181967908067930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44752ff22f2c605e0800000000000000
+      internalID: -1943651843721504956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_41
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 961
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cc6e079147c9490800000000000000
+      internalID: -7738182407112176598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_42
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 961
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1c71a0b1f97ddd0800000000000000
+      internalID: -2461323732852424205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd9d2d0f5a30beb0800000000000000
+      internalID: -4706197430684770894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_44
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52b27c14db274350800000000000000
+      internalID: 6000813218504815197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_45
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226ae828e2f500f60800000000000000
+      internalID: 7998497591573521954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_46
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa35390ab77485e0800000000000000
+      internalID: -1908268701196141915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 961
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dca03b0c21c5de0800000000000000
+      internalID: -1343177970016399980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_48
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 961
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a6a0fe21c417f40800000000000000
+      internalID: 5724440245568170551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_49
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe6c69e6f37185e0800000000000000
+      internalID: -1909117262713032972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 961
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a260037e687ee60f0800000000000000
+      internalID: -1121704690578356694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25ea15857b34120800000000000000
+      internalID: 2396961016646619867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_52
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2318bfc5ccb65e0800000000000000
+      internalID: -1915212516787408209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_53
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 897
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3631d34f4aaf80800000000000000
+      internalID: -8094570227553648841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_54
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 897
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8911eabbd6e4fc0800000000000000
+      internalID: -3508746406828336933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3043c1c5786d9c0800000000000000
+      internalID: -3902783197390044252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333239b1a8d0689c0800000000000000
+      internalID: -3925435138387533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_57
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43ec0cefb242abf0800000000000000
+      internalID: -314615631896059060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_58
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9a96e51d6d4e4b0800000000000000
+      internalID: -5411964657472001625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_59
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 897
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94ad117a1ccbba70800000000000000
+      internalID: 8843886707211084954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 897
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a33848065a1e850800000000000000
+      internalID: 6404581979056192117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_61
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd2683e684fbea0800000000000000
+      internalID: -5854881352328749142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_62
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 897
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171af8edf63ffb160800000000000000
+      internalID: 7043616004031619441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7b5f34d64b64310800000000000000
+      internalID: 1388995916474988478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 385
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48863943be0c41a0800000000000000
+      internalID: -6824063172182898613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_65
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6e4404ca4dbb7c0800000000000000
+      internalID: -4054413203239278856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925a94b799bd746b0800000000000000
+      internalID: -5312035783215307479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_67
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39db64c80a4cdbf20800000000000000
+      internalID: 3440121884208184723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_68
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51ebc3d0b1102240800000000000000
+      internalID: 4764827856923255132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0fc7a86442e2f0800000000000000
+      internalID: -945117755511730408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_70
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21a14ddc71dd6d00800000000000000
+      internalID: 967659829172740394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_71
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7021efa82b0c52ba0800000000000000
+      internalID: -6114269046016962041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_72
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 773
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcee9508e7a8ed1b0800000000000000
+      internalID: -5629910208242651445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_73
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 773
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d92c293da783370800000000000000
+      internalID: 8302520962176425301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_74
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 775
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494d844881e533a20800000000000000
+      internalID: 3040877632796808340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_75
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 773
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07e21a0805e18870800000000000000
+      internalID: 8683473379238536973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_76
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 773
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b6b5992224de5d0800000000000000
+      internalID: -3031694257781249129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_77
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded929d489822b210800000000000000
+      internalID: 1347183873138793965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71453e729eca37510800000000000000
+      internalID: 1545769214514779159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910198334e7e8e130800000000000000
+      internalID: 3596379269758521369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77d49f1566df790800000000000000
+      internalID: -7494721702613649496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155df93434acfb390800000000000000
+      internalID: -7800293639336241839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e575c71738e16c80800000000000000
+      internalID: -8331122512339044891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_83
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 703
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3531ee4b8efe9dbb0800000000000000
+      internalID: -4910630135923862701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_84
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8425fcd47a4a73e00800000000000000
+      internalID: 1024468478722003528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_85
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cf1856de0c8db90800000000000000
+      internalID: -7216806277018420140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_86
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9029a847aa2080800000000000000
+      internalID: -9211366157315957007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_87
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e3dce4125dc61c0800000000000000
+      internalID: -4508994787871998433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_88
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 705
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc205ba25ea5ef10800000000000000
+      internalID: 2298434854927215826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_89
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 703
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7106d9a547b3aa0800000000000000
+      internalID: -6180218131099674663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_90
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 703
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f44ca729a5d2d010800000000000000
+      internalID: 1212266172207875319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_91
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c2d04024f394400800000000000000
+      internalID: 308847602219953282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_92
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25febab7e8d4fd480800000000000000
+      internalID: -8872287466541027502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_93
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c58cc2700cb21c0800000000000000
+      internalID: -4527313863342269325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_94
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 711
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ed3de0a5decca40800000000000000
+      internalID: 5389943825107246621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_95
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 711
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2373e1b262212c0800000000000000
+      internalID: -4462462314138357070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_96
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 711
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297924365d86ad290800000000000000
+      internalID: -7864858533546518638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_97
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f460dabef8b016710800000000000000
+      internalID: 1684640448375490127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_98
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765e97c35fe6ac50800000000000000
+      internalID: 6676286640733705852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_99
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 711
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a778a0a874c59a0800000000000000
+      internalID: -6243036325234640276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_100
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 703
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3813ed75ecbe63d20800000000000000
+      internalID: 3258050651919102339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_101
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 703
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d443550883a2860800000000000000
+      internalID: 7505873852802813258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_102
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 703
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5106eabd6add88180800000000000000
+      internalID: -9112790137264250859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_103
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a75f4a146225400800000000000000
+      internalID: 311353387624266272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_104
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb8cf901fde3cfb0800000000000000
+      internalID: -4628594372496290822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_105
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 639
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125fb4679a4c5c0c0800000000000000
+      internalID: -4556019215902182111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_106
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 639
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf137ac996250fc10800000000000000
+      internalID: 2085257241025786363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_107
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 639
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3538e78869700950800000000000000
+      internalID: 6413259359239288125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_108
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 639
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081c1b2bbf2ee61e0800000000000000
+      internalID: -2202573597074931328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_109
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753478796065e670800000000000000
+      internalID: 8567359872250951026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efefd27442deea870800000000000000
+      internalID: 8696148670567808766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_111
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e7b1dbdf2a1a260800000000000000
+      internalID: 7107140897650474619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_112
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f57ca0479c2ce450800000000000000
+      internalID: 6119315021826389491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_113
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b10b3dec213dcc80800000000000000
+      internalID: -8300924469145566792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_114
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f12d24750ba7b570800000000000000
+      internalID: 8482436463087919606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_115
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 639
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac33bdd89507a4be0800000000000000
+      internalID: -1492256796585544758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_116
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ca79a8fefb88500800000000000000
+      internalID: 398779602565573702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_117
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c080cd25988c85e0800000000000000
+      internalID: -1905998367985467192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_118
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 639
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28e03937a0572cc0800000000000000
+      internalID: -3735928686731270102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_119
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 639
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba31b4ec1b1a7f550800000000000000
+      internalID: 6194597597513716651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_120
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 639
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfabe59e878b6d5e0800000000000000
+      internalID: -1885116564557088003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_121
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 639
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd5660e216e8aec0800000000000000
+      internalID: -3555338937060401715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_122
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3fb675451ae66b0800000000000000
+      internalID: -5301122327752477749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_123
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21bb9f327e98d4750800000000000000
+      internalID: 6290835880340470546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_124
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad10585191378fc0800000000000000
+      internalID: -3492768485680865880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_125
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce0f3cdfe538e90800000000000000
+      internalID: -7024666549760758561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_126
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917eab70a09f20d0800000000000000
+      internalID: -3445376170970943079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_127
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 639
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a63d939815f53750800000000000000
+      internalID: 6284198340969969314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_128
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 639
+        width: 386
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99e7f5c066f628c0800000000000000
+      internalID: -4024258321510307430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_129
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fd6907c8052f540800000000000000
+      internalID: 5040179497095585597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_130
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6408dbc299acc7ce0800000000000000
+      internalID: -1406026224417013690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_131
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aa31990511d08a0800000000000000
+      internalID: -6337390062777161079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_132
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6525bed7eda22a0800000000000000
+      internalID: -6761347258143058215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_133
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8eb4f31be722ee0800000000000000
+      internalID: -1287327243738289938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_134
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af906e8d16d94f7b0800000000000000
+      internalID: -5191351426874996230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_135
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42ff0d68a0d6920800000000000000
+      internalID: 2985053702164784346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_136
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 575
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29fb3cf287ad51f0800000000000000
+      internalID: -1054502556715452118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_137
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 575
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587acc7ab8ce6a7a0800000000000000
+      internalID: -6366140938681800827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_138
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e697e1bbc81093fa0800000000000000
+      internalID: -5820619339453269650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_139
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 575
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3b2ec50397b6210800000000000000
+      internalID: 1327287763814495196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_140
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1e99b7bd9e4e30800000000000000
+      internalID: 4489699290953686710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_141
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2715f977693f97c00800000000000000
+      internalID: 899017428214698354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_142
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22217352ce1befb20800000000000000
+      internalID: 3170166815510172194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_143
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c3ba6b4857b3bd0800000000000000
+      internalID: -2649394742916596733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_144
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c562d5b58de8b4f0800000000000000
+      internalID: -812638574203476543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_145
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1350ca7567d46f0800000000000000
+      internalID: -698772248252304931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_146
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c9ec9f0906b7570800000000000000
+      internalID: 8465466100355603532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_147
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 575
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ea03c6a8312ac0800000000000000
+      internalID: -3881759114928660243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_148
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 575
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c60343e8ae3f6c70800000000000000
+      internalID: 8966454278206195397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_149
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 575
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d66588afcc69620800000000000000
+      internalID: 2780635196349115713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_150
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 575
+        width: 322
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53913ade13e2dedd0800000000000000
+      internalID: -2455255429871888075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_151
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 579
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5258ffdf28de5b0800000000000000
+      internalID: -5337465955938916867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_152
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 579
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6fcc5a0c30b0b5e0800000000000000
+      internalID: -1895821671204597905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_153
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b07dd7f80bc0f20800000000000000
+      internalID: 3390278749841197970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_154
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d663bbc3ec3b390800000000000000
+      internalID: -7803666969068671622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_155
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54b982bca2801280800000000000000
+      internalID: -9074609570910194596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_156
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b40d349bde0edc0800000000000000
+      internalID: -3611625521188680934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_157
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f13f94460ed495e0800000000000000
+      internalID: -1903652623968423436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_158
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b88c4422488a7b0800000000000000
+      internalID: -5212771285963601119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ddf157d7e5d36e0800000000000000
+      internalID: -1856223578477830853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_160
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd2e20b8aba16e0800000000000000
+      internalID: -1865973989380006954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88aeb35a23c7d3510800000000000000
+      internalID: 1530516005338213000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_162
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56950ccd21bfd9b0800000000000000
+      internalID: -5053125446631844259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_163
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bba22d5958be1d0800000000000000
+      internalID: -3320413421732971649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_164
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9c3d0e4595a66d0800000000000000
+      internalID: -2996484380977542682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_165
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4020d9e9d581d4cb0800000000000000
+      internalID: -4878216031000264188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_166
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da67a88348aacaca0800000000000000
+      internalID: -6004236718330710355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_167
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 511
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a528f19dd5100e0800000000000000
+      internalID: -2305458347119060370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_168
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704cdffc0c11ec8d0800000000000000
+      internalID: -2824300396493814777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_169
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cbef41732c68e00800000000000000
+      internalID: 1046737505241447580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_170
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e84f64e0c08c09b0800000000000000
+      internalID: -5112569911017781022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_171
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f00aac3ba4f00d0800000000000000
+      internalID: -3454460253110792313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_172
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5507baaba99f47e0800000000000000
+      internalID: -1779034365205478050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_173
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65c4efb42ad11700800000000000000
+      internalID: 509428084242695533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_174
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14af31a0de68b5b0800000000000000
+      internalID: -5352406314792279009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_175
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb940f9204324ea90800000000000000
+      internalID: -7285659538690127425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_176
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bdf9d77e0540d60800000000000000
+      internalID: 7855492605216283394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_177
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb871f1d776ba4ed0800000000000000
+      internalID: -2428928423273334596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_178
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b0ba0d43a1acea0800000000000000
+      internalID: -5851835951673046169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_179
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f089d450d0d3c8e00800000000000000
+      internalID: 1048279939403323407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_180
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 511
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea24cd8f7d762d990800000000000000
+      internalID: -7362708263506525522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_181
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 511
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3802dbc2f2de16e0800000000000000
+      internalID: -1864821255441348546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_182
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 511
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef30ad764e317f60800000000000000
+      internalID: 8030268083054591979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_183
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bde6b4db969e8800800000000000000
+      internalID: 616595795029192115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_184
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8bdff9a5e7cde10800000000000000
+      internalID: 2223791243710544060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_185
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42004092a9f0861b0800000000000000
+      internalID: -5663259376630890460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_186
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f7b8fbb7b2bd4b0800000000000000
+      internalID: -5414686316488327402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_187
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b92173359583db00800000000000000
+      internalID: 852171630362831282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_188
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e1b1aa00ab6c990800000000000000
+      internalID: -7365995628501197256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_189
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f8acdc751002490800000000000000
+      internalID: -7773211480215089400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_190
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96406e16c776df8e0800000000000000
+      internalID: -1658055303886404503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_191
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c89640e7d020f1f0800000000000000
+      internalID: -1013273804605581119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_192
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 447
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e101617fe29d65f0800000000000000
+      internalID: -761791204858723864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_193
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a8f423078daeb00800000000000000
+      internalID: 858736655359511082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_194
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf26f39eda85b3b20800000000000000
+      internalID: 3115181071222661883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_195
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25bbc8cad4eb0030800000000000000
+      internalID: 3462112366887154990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_196
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1343046d4e5720140800000000000000
+      internalID: 4684436188126262321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_197
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 447
+        width: 450
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64b6f2c19e8d9ad0800000000000000
+      internalID: -2693840245405338515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_198
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322ab8e335c1d6ae0800000000000000
+      internalID: -1554555152515751389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_199
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373dd548674a13930800000000000000
+      internalID: 4121255962954552179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_200
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec9ad612fabf3600800000000000000
+      internalID: 450284036688616684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_201
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a27c5b68481aa760800000000000000
+      internalID: 7469809631265321636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_202
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9add001c2852e5c30800000000000000
+      internalID: 4349955533600513449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_203
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04392c74b9dfb810800000000000000
+      internalID: 1783383346662421516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_204
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd6851c8e8b73610800000000000000
+      internalID: 1600951502369222133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_205
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3524c8379243ab0800000000000000
+      internalID: -5029349307614866525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_206
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05f8821b08401230800000000000000
+      internalID: 3607462513916572939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_207
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 447
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fbfe65dacbef970800000000000000
+      internalID: 8790670975347703560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_208
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd85f3691e80bbf0800000000000000
+      internalID: -310592134586200610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_209
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 447
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f699cb02a16c8b600800000000000000
+      internalID: 484354775463008623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_210
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f203c4dd2a65b0800000000000000
+      internalID: -5374432813485197579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_211
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 447
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7447ceb7c3bdaad0800000000000000
+      internalID: -2689295731989724036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_212
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 447
+        width: 449
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6aeff8a4e40c70800000000000000
+      internalID: 8936518975109099279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_213
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c213f299d12e76a0800000000000000
+      internalID: -6449680397990948159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_214
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2467e5242c5c0a0800000000000000
+      internalID: -6861864866920643859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_215
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 383
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221142c1a3beea880800000000000000
+      internalID: -8597676003790941918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_216
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 383
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15e13f2aebf73c10800000000000000
+      internalID: 2033370740013786397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_217
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 383
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492384fe4dc68f520800000000000000
+      internalID: 2736056435430929044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_218
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb8d2d8fa43ddb30800000000000000
+      internalID: 4313661946683296753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_219
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 383
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d7a03d21bb22020800000000000000
+      internalID: 2315618847946341632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_220
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ec52af5831b57c0800000000000000
+      internalID: -4081647171132862943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_221
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd76786610356f50800000000000000
+      internalID: 6873953279050939845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_222
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 383
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306a537737d64f450800000000000000
+      internalID: 6121638136192017923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_223
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 383
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c5e886459777200800000000000000
+      internalID: 177744113742797954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_224
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 383
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1d7ddd26e254880800000000000000
+      internalID: -8627438508994735647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_225
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 383
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cf5c887c0cc45b0800000000000000
+      internalID: -5382715491388883928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_226
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 383
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a5839612a000b10800000000000000
+      internalID: 1945566177639553590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_227
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f385774d84ed6e150800000000000000
+      internalID: 5901648766099216447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_228
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48181bf6590499a70800000000000000
+      internalID: 8834163154632147332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_229
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4a9e2e42ad09d90800000000000000
+      internalID: -7092929561147890469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_230
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22196c76d44498d60800000000000000
+      internalID: 7892914921187741986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_231
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0595a5e197cc48ac0800000000000000
+      internalID: -3853730560549955248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_232
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4575af609ca153420800000000000000
+      internalID: 2609021009838888788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_233
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261ced2a21e00e290800000000000000
+      internalID: -7863269476184178334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_234
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b276b08b00b4cbe80800000000000000
+      internalID: -8161565958242343125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_235
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ef0ce5aab668220800000000000000
+      internalID: 2487794223647096353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_236
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 319
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c94da3a33603720800000000000000
+      internalID: 2823866068107566201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_237
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 319
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b18e32d758bdb180800000000000000
+      internalID: -9097912984889556555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_238
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77b01e36af6ca290800000000000000
+      internalID: -7877798888381302917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_239
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 319
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6013705f57834f160800000000000000
+      internalID: 7058328595269628166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_240
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 319
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc048327122825ce0800000000000000
+      internalID: -1417927852506464052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_241
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b4a0694b5b92c0800000000000000
+      internalID: -4423841838249232897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_242
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43a4de0e5c5ed440800000000000000
+      internalID: 4962505398454362959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_243
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94853ddffc4ea1a80800000000000000
+      internalID: -8495226165113169847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_244
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f03e6ac3f7bae00800000000000000
+      internalID: 1057078436023177037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_245
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9270aa2bd01420800000000000000
+      internalID: 2598817961119752000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_246
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ad1b6554c843e30800000000000000
+      internalID: 4482361758575614547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_247
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 255
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdaa00eaa1f20f60800000000000000
+      internalID: 7999221604368952824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_248
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b03cc7c09fab7210800000000000000
+      internalID: 1331851151180312761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_249
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c1df695ae9ab640800000000000000
+      internalID: 5096560362363100209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_250
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5595dcd7d1095010800000000000000
+      internalID: 1177974804168676701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_251
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467375a81c41bb460800000000000000
+      internalID: 7258418045919901540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_252
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 255
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447121a76a6f9c50800000000000000
+      internalID: 6674170166103864391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_253
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 255
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7f961e733af830800000000000000
+      internalID: 4105650626940075348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_254
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 255
+        width: 194
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633570a6412a09180800000000000000
+      internalID: -9110603837608602826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_255
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 259
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d4288b982afdf60800000000000000
+      internalID: 8061340570406243722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_256
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 267
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8e495e31f76ce0800000000000000
+      internalID: -1411894708068774571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_257
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6944c64c39f2f30800000000000000
+      internalID: 4553020220134168265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_258
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 269
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8573a6d3ced18a8e0800000000000000
+      internalID: -1682061560343021736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_259
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 267
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8719dff314b682690800000000000000
+      internalID: -7626728040961306248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_260
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 265
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e64de86ec5b669e0800000000000000
+      internalID: -1628414317119584540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_261
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 263
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8f32d36aa6c2430800000000000000
+      internalID: 3759497051170404549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_262
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 271
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb1be7c0dccf7a0800000000000000
+      internalID: -6341968721695622086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_263
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 259
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec7f8f39ff650f10800000000000000
+      internalID: 2235315906363227375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_264
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 267
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdc2fe9a38ea9a10800000000000000
+      internalID: 1917099929872027067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_265
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bcddff69a605290800000000000000
+      internalID: -7903700149264856280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_266
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 265
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23752a8e34ebf7a80800000000000000
+      internalID: -8466839575558203598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_267
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 267
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24819e50b9c049280800000000000000
+      internalID: -9037584692267116478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_268
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 269
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1038828cc08a660800000000000000
+      internalID: 7397176441768706525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_269
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 267
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f054f61a58d8dcc00800000000000000
+      internalID: 922549103759410447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_270
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 267
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d179b070f075e0a70800000000000000
+      internalID: 8795062844355483421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_271
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3da87c3f19540f0800000000000000
+      internalID: -1133339255002967134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_272
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d13c4edac9faa40800000000000000
+      internalID: 5381692350412299551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_273
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1d385c89c197cc0800000000000000
+      internalID: -3712904975315906061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_274
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 261
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb764c7a146657c0800000000000000
+      internalID: -4082965947247854607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_275
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 259
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1635b8a8e8c1370800000000000000
+      internalID: 8294661339403739634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_276
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 257
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbef989917706520800000000000000
+      internalID: 2693283528986061767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_277
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 263
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a6d912b93a7040800000000000000
+      internalID: 4646089402686548059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_278
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205bbee0f5bcd3f30800000000000000
+      internalID: 4557022007101469954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_279
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 259
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a421c68c26f8340800000000000000
+      internalID: 4868218335156914813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_280
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 257
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0796a9c9b47c640800000000000000
+      internalID: 5100128238997958837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_281
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 255
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d11de53b0f5abc00800000000000000
+      internalID: 917149975877325267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_282
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fce487de1eb07a0800000000000000
+      internalID: -6409781234589839510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_283
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0e99d1125df55f0800000000000000
+      internalID: -765659073422434069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_284
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e990a407fc8580800000000000000
+      internalID: -8823405970679273090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_285
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db93ac5f2b48ddd0800000000000000
+      internalID: -2461134529568203817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_286
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232df4140ef7e77c0800000000000000
+      internalID: -4071676411951197646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_287
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa7ca6523acf3ee0800000000000000
+      internalID: -1279081451598611797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_288
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47977580bbc22b8c0800000000000000
+      internalID: -3985073538459010700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_289
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ea26a70327e000800000000000000
+      internalID: 65059235379734905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_290
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 191
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3cefbf19aef0480800000000000000
+      internalID: -8930661623333469203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_291
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 191
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f7a97f257163c70800000000000000
+      internalID: 8950366954554294097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_292
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d97fcdc5644d4930800000000000000
+      internalID: 4129031637403924953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_293
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f6488850242400800000000000000
+      internalID: 298399039928857751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_294
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb524b68380749f0800000000000000
+      internalID: -484409396508337215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_295
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04f8ae156aa348c0800000000000000
+      internalID: -4016179091401542644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_296
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96857b99db1289ab0800000000000000
+      internalID: -5001210287983470487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_297
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 254
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca05e4e45f0aed430800000000000000
+      internalID: 3809659310243205292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_298
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978c4052990a75a0800000000000000
+      internalID: -6522890586275674213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_299
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd6cfc8433561c60800000000000000
+      internalID: 7788504090752609737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_300
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 127
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165fe7ab2a9c2d540800000000000000
+      internalID: 5031305434477032801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_301
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342b99a67e85fe4c0800000000000000
+      internalID: -4256085371892682173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_302
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 127
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc296058ca6ca0800800000000000000
+      internalID: 579493946339005132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_303
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 127
+        width: 194
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9422bcffcef5f8140800000000000000
+      internalID: 4724100005643362889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_304
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 117
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59620e3f91690ed40800000000000000
+      internalID: 5611650173913540245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_305
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1826910a50e79e0800000000000000
+      internalID: -1621852630628007473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_306
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9d75b86e0b78010800000000000000
+      internalID: 1191115130689542605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_307
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 63
+        width: 158
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4886b5206df818230800000000000000
+      internalID: 3639348123217389700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_308
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 63
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfea3afd9049f8b0800000000000000
+      internalID: -5117988454277648425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_309
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ceea135e55286f0800000000000000
+      internalID: -683889750537475013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_310
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 63
+        width: 116
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88240d92745e2a40800000000000000
+      internalID: 5345302658972657802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_311
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de468cba8b3d0c730800000000000000
+      internalID: 4017443657723962605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_312
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14a85229b7913020800000000000000
+      internalID: 2319802104473494557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_313
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4a57769eacebe70800000000000000
+      internalID: 9132960198165898478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_314
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302b0d8ca34e7e30800000000000000
+      internalID: 4503111085796827187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_315
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f3cfed56dd00ce0800000000000000
+      internalID: -1440908451156050146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_316
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afcde7f009b72f50800000000000000
+      internalID: 6856652371505565609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_317
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4df083f90c31310800000000000000
+      internalID: 1374654101351027950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_318
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c777174982fbf80800000000000000
+      internalID: -8088701787710194592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GenericStudent4_319
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 13
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52f7954ec7c146d0800000000000000
+      internalID: -3007903387362004386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
