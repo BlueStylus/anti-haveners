@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PauseManager : MonoBehaviour
 {
@@ -17,6 +18,8 @@ public class PauseManager : MonoBehaviour
     public bool isPaused { get; private set; }
 
     [SerializeField] private GameObject _pauseMenu;
+
+    public Button pauseButton;
 
     private void Awake()
     {
@@ -36,7 +39,8 @@ public class PauseManager : MonoBehaviour
     {
         isPaused = true;
         _pauseMenu.GetComponent<Canvas>().enabled = true;
-        Cursor.lockState = CursorLockMode.None;
+        pauseButton.gameObject.SetActive(false);
+        // Cursor.lockState = CursorLockMode.None;
         // change the rate at which real time occurs to stop completely
         Time.timeScale = 0f;
         AudioListener.pause = true;
@@ -46,7 +50,8 @@ public class PauseManager : MonoBehaviour
     {
         isPaused = false;
         _pauseMenu.GetComponent<Canvas>().enabled = false;
-        Cursor.lockState = CursorLockMode.Locked;
+        pauseButton.gameObject.SetActive(true);
+        // Cursor.lockState = CursorLockMode.Locked;
         Time.timeScale = 1f;
         AudioListener.pause = false;
     }
