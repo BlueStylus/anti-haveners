@@ -25,6 +25,8 @@ public class TimeTracker : MonoBehaviour
 
     private bool _resetOnScene4;
 
+    public string timeString;
+
     void Awake()
     {
         timeText = GetComponent<TextMeshProUGUI>();
@@ -55,8 +57,8 @@ public class TimeTracker : MonoBehaviour
         // Update the UI text
         if (timeText != null)
         {
-            string time = _currentTime.ToString(@"hh\:mm") + " AM";
-            timeText.text = time;
+            timeString = _currentTime.ToString(@"hh\:mm") + " AM";
+            timeText.text = timeString;
         }
 
         // Check if we reached or surpassed the trigger time

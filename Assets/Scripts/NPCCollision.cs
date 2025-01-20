@@ -32,9 +32,9 @@ public class NPCCollision : MonoBehaviour
             if (col.gameObject == player)
             {
                 detection.stop = true;
-                col.gameObject.GetComponent<Rigidbody2D>().velocity = new Vector2(0, 0);
+                col.gameObject.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
                 player.GetComponent<Player>().disableInputs = true;
-                rb.velocity = new Vector2(0, 0);
+                rb.velocity = Vector2.zero;
                 detection_cone.SetActive(false);
                 dialogueComponent.enabled = true;
                 behaviorComponent.enabled = false;

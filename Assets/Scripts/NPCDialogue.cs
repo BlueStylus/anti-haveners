@@ -37,11 +37,15 @@ public class NPCDialogue : MonoBehaviour
 
     public DialogueTree[] dialogue;
 
+    [SerializeField] private float typingSpeed = 0.04f;
+
     private int i = 0;
 
     private bool finished;
 
     private GameObject player;
+
+    public bool bustsKneecaps;
 
     // Start is called before the first frame update
     void Start()
@@ -100,10 +104,13 @@ public class NPCDialogue : MonoBehaviour
 
     void DisplayText(int i)
     {
-        dialogueSystemText.text = dialogue[i].text;
         if (dialogue[i].finisher)
         {
             finished = true;
+            if (bustsKneecaps)
+            {
+                player.GetComponent<Player>().walkSpeed = 2;
+            }
         }
 
         if (dialogue[i].choices.Length == 0)
@@ -125,6 +132,8 @@ public class NPCDialogue : MonoBehaviour
             dialogueSystemChoice1.SetActive(true);
             dialogueSystemChoice2.SetActive(true);
         }
+
+        StartCoroutine(DisplayLine(dialogue[i].text));
     }
 
     public void Choose1()
@@ -139,5 +148,18 @@ public class NPCDialogue : MonoBehaviour
         i = dialogue[i].jumpIfChoice2;
         // Debug.Log(i);
         DisplayText(i);
+    }
+
+    private IEnumerator DisplayLine(string line)
+    {
+        // empty the dialogue text
+        dialogueSystemText.text = "";
+
+        //display each letter at a time
+        foreach (char letter in line.ToCharArray())
+        {
+            dialogueSystemText.text += letter;
+            yield return new WaitForSeconds(typingSpeed);
+        }
     }
 }

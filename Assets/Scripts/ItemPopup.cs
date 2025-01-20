@@ -8,10 +8,20 @@ public class ItemPopup : MonoBehaviour
     public GameObject message;
     private GameObject player;
 
+    public bool moving;
+
     // Start is called before the first frame update
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player");
+    }
+
+    private void Update()
+    {
+        if (moving)
+        {
+            message.transform.position = new Vector2(transform.position.x, transform.position.y + 1.5f);
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
