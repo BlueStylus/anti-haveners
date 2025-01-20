@@ -23,7 +23,7 @@ public class NPCDialogue : MonoBehaviour
     private NPCBehavior behaviorComponent;
 
     public GameObject detectionCone;
-    public GameObject detectionMeter;
+    public NPCDetection detectionMeter;
 
     [System.Serializable]
     public class DialogueTree
@@ -94,7 +94,7 @@ public class NPCDialogue : MonoBehaviour
             player.GetComponent<Player>().disableInputs = false;
             dialogueSystem.SetActive(false);
             detectionCone.SetActive(false);
-            detectionMeter.SetActive(false);
+            detectionMeter.enabled = false;
         }
     }
 

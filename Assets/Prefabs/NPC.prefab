@@ -1569,7 +1569,7 @@ MonoBehaviour:
   dialogueSystemChoice2: {fileID: 7530996803111928849}
   choice2Text: {fileID: 7916027413857154352}
   detectionCone: {fileID: 8293570261802699453}
-  detectionMeter: {fileID: 3586127165332877462}
+  detectionMeter: {fileID: 8601902672757243313}
   dialogue:
   - text: Hi everyone! My name is Monika! So nice to meet you~
     choices: []
@@ -1612,6 +1612,7 @@ MonoBehaviour:
   - {fileID: 2200088556771579248}
   - {fileID: 7520194250753926718}
   - {fileID: 4295476376942898166}
+  loop: 0
 --- !u!1 &7032762574048243120
 GameObject:
   m_ObjectHideFlags: 0

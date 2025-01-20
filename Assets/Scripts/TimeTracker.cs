@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using TimeUtil = UnityEngine.Time;
 
 public class TimeTracker : MonoBehaviour
@@ -12,13 +13,17 @@ public class TimeTracker : MonoBehaviour
     public static TimeTracker Instance => _instance;
 
     private float _lastCheck;
-    private TimeSpan _startTime = new TimeSpan(9, 27, 0); // Start time: 9:27 AM
+    // Start time: 9:25 AM
+    private TimeSpan _startTime = new TimeSpan(9, 25, 0);
     private TimeSpan _currentTime;
-    private TimeSpan _endTriggerTime = new TimeSpan(9, 30, 0); // Trigger time: 9:30 AM
+    // Trigger time: 9:30 AM
+    private TimeSpan _endTriggerTime = new TimeSpan(9, 30, 0);
 
     private TextMeshProUGUI timeText;
 
     public bool HasReachedTargetTime { get; private set; } = false;
+
+    private bool _resetOnScene4;
 
     void Awake()
     {
@@ -31,8 +36,12 @@ public class TimeTracker : MonoBehaviour
         }
 
         _instance = this;
+        DontDestroyOnLoad(gameObject);
+
         _currentTime = _startTime;
         _lastCheck = TimeUtil.time;
+
+        SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
     void Update()
@@ -54,7 +63,21 @@ public class TimeTracker : MonoBehaviour
         if (!HasReachedTargetTime && _currentTime >= _endTriggerTime)
         {
             HasReachedTargetTime = true;
-            Debug.Log("Target time reached: 9:30 AM");
+            Debug.Log("Game Over!");
+        }
+    }
+
+    void OnDestroy()
+    {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        if (scene.name == "Bedroom")
+        {
+            _currentTime = _startTime;
+            HasReachedTargetTime = false;
         }
     }
 }
