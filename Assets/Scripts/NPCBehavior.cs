@@ -20,6 +20,8 @@ public class NPCBehavior : MonoBehaviour
 
     public Transform[] doNotRotate;
 
+    public bool loop;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -46,6 +48,10 @@ public class NPCBehavior : MonoBehaviour
             StartCoroutine(Idle());
             // Move to the next point (looping back to start)
             index = (index + 1) % points.Length;
+            if (!loop)
+            {
+                this.enabled = false;
+            }
         }
     }
 

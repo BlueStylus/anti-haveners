@@ -1238,6 +1238,10 @@ PrefabInstance:
       value: 1942743303
       objectReference: {fileID: 0}
     - target: {fileID: 4655807082380737831, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+      propertyPath: loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4655807082380737831, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
       propertyPath: points.Array.size
       value: 6
       objectReference: {fileID: 0}
