@@ -1395,6 +1395,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5324036303940292656, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
+      propertyPath: m_TagString
+      value: DialogueSystem
+      objectReference: {fileID: 0}
     - target: {fileID: 5781670198881552223, guid: b3d5e5afa187f7b4ca2c2ec48359f25a, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1599,6 +1603,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d1df1d245c5d741964cea5614bb9a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gameOverDialogue: {fileID: 0}
   timeString: 
 --- !u!114 &1158376976
 MonoBehaviour:

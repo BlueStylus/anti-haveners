@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Popup
   - NPC
+  - DialogueSystem
   layers:
   - Default
   - TransparentFX
