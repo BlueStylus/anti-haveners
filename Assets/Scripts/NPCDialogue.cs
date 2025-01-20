@@ -22,6 +22,8 @@ public class NPCDialogue : MonoBehaviour
 
     private NPCBehavior behaviorComponent;
 
+    private NPCAudio audioComponent;
+
     public GameObject detectionCone;
     public NPCDetection detectionMeter;
 
@@ -58,6 +60,7 @@ public class NPCDialogue : MonoBehaviour
         dialogueSystemName.text = npc_name;
 
         behaviorComponent = GetComponent<NPCBehavior>();
+        audioComponent = GetComponent<NPCAudio>();
         player = GameObject.FindGameObjectWithTag("Player");
 
         finished = false;
@@ -128,6 +131,7 @@ public class NPCDialogue : MonoBehaviour
 
     private IEnumerator DisplayLine(string line)
     {
+        audioComponent.playNow = true;
         continueIcon.SetActive(false);
 
         // empty the dialogue text
@@ -174,5 +178,7 @@ public class NPCDialogue : MonoBehaviour
             dialogueSystemChoice1.SetActive(true);
             dialogueSystemChoice2.SetActive(true);
         }
+
+        audioComponent.playNow = false;
     }
 }
