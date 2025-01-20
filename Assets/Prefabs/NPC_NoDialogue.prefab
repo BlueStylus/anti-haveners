@@ -115,7 +115,7 @@ GameObject:
   - component: {fileID: 3390820668829999168}
   - component: {fileID: 269610649831304649}
   - component: {fileID: 8747504581145716317}
-  - component: {fileID: 707319801988584048}
+  - component: {fileID: 6541201765692556864}
   m_Layer: 0
   m_Name: NPC_NoDialogue
   m_TagString: NPC
@@ -185,7 +185,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -275,14 +275,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3759264830949993042}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e18669ae2bc424be9a817c02b03cbb89, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   detection: {fileID: 2655440400576611680}
   detection_cone: {fileID: 6818810699258412849}
---- !u!114 &707319801988584048
+--- !u!114 &6541201765692556864
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -291,37 +291,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 3759264830949993042}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e78bd9a04851e4fd9addb5e0b3123049, type: 3}
+  m_Script: {fileID: 11500000, guid: e97f6e4a54198514ba3b956dfe2906a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  portrait: {fileID: -5941158660930992624, guid: d7a3b6c9a99174baf9930c71cb90f8d7, type: 3}
-  npc_name: Mon1ka
-  dialogueSystemPortrait: {fileID: 0}
-  dialogueSystemName: {fileID: 0}
-  dialogueSystemText: {fileID: 0}
-  dialogueSystemChoice1: {fileID: 0}
-  choice1Text: {fileID: 0}
-  dialogueSystemChoice2: {fileID: 0}
-  choice2Text: {fileID: 0}
-  dialogue:
-  - text: Hi everyone! My name is Monika! So nice to meet you~
-    choices: []
-    jumpIfChoice1: 0
-    jumpIfChoice2: 0
-  - text: 'Here is the first choice:'
-    choices:
-    - I'm going to win!
-    - I'm going to lose!
-    jumpIfChoice1: 2
-    jumpIfChoice2: 3
-  - text: You chose to win!
-    choices: []
-    jumpIfChoice1: 0
-    jumpIfChoice2: 0
-  - text: You chose to lose!
-    choices: []
-    jumpIfChoice1: 0
-    jumpIfChoice2: 0
+  points: []
+  speed: 2
+  idleTime: 0
+  doNotRotate:
+  - {fileID: 3789917227668742080}
+  loop: 0
 --- !u!1 &5315903312890792394
 GameObject:
   m_ObjectHideFlags: 0
@@ -339,7 +317,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5336613275781929560
 Transform:
   m_ObjectHideFlags: 0
@@ -424,6 +402,8 @@ MonoBehaviour:
   npc: {fileID: 3759264830949993042}
   gravity: {fileID: 3315391958326145062}
   stop: 0
+  detection_progress: 0
+  progress_meter: {fileID: 0}
 --- !u!1 &6092239783260943919
 GameObject:
   m_ObjectHideFlags: 0
@@ -442,7 +422,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3789917227668742080
 Transform:
   m_ObjectHideFlags: 0
@@ -543,7 +523,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &4942746942579108006
 RectTransform:
   m_ObjectHideFlags: 0
