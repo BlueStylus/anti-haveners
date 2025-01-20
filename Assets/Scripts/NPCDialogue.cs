@@ -41,7 +41,7 @@ public class NPCDialogue : MonoBehaviour
 
     private int i = 0;
 
-    private bool finished;
+    public bool finished;
 
     private GameObject player;
 
