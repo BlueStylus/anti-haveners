@@ -87399,6 +87399,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1521187833}
     m_Modifications:
+    - target: {fileID: 1435101997989743653, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 008cb065f6bc60240821b5e0f9c94ea8, type: 2}
     - target: {fileID: 2242921340624743015, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
       propertyPath: m_Name
       value: Eggbert
@@ -87495,6 +87499,10 @@ PrefabInstance:
       propertyPath: 'doNotRotate.Array.data[3]'
       value: 
       objectReference: {fileID: 1240046291}
+    - target: {fileID: 8295773057325213759, guid: bfe1960e22d9a584abeac078e9cc99c1, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5414498893569429425, guid: 2596d3e779954d94d80d7d7248d76f03, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
