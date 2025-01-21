@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
         }
         else
         {
-            // Movement inputs
+        // Movement inputs
             float horizontalInputs = Input.GetAxisRaw("Horizontal");
             float verticalInputs = Input.GetAxisRaw("Vertical");
 
