@@ -88,13 +88,15 @@ public class NPCDialogue : MonoBehaviour
                 // Debug.Log(clickedObject);
             }
 
-            if (clickedObject != dialogueSystemChoice1 && clickedObject != dialogueSystemChoice2
-                && clickedObject != choice1Text.gameObject && clickedObject != choice2Text.gameObject)
+            if (clickedObject == dialogueSystemChoice1 || clickedObject == dialogueSystemChoice2
+                || clickedObject == choice1Text.gameObject || clickedObject == choice2Text.gameObject)
             {
-                i++;
-                DisplayText(i);
-                // Debug.Log(i);
+                // Do nothing; let the button handle the event.
+                return;
             }
+
+            i++;
+            DisplayText(i);
         }
         else if (finished && Input.GetMouseButtonDown(0) && canContinueDialogue)
         {

@@ -128,6 +128,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 304585723463980068, guid: af48e13f4cb994ee8a7584536711157c, type: 3}
+      propertyPath: anim
+      value: 
+      objectReference: {fileID: 218243372}
+    - target: {fileID: 304585723463980068, guid: af48e13f4cb994ee8a7584536711157c, type: 3}
       propertyPath: rigidBody
       value: 
       objectReference: {fileID: 1161084832}
@@ -197,6 +201,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4298555978354970723, guid: af48e13f4cb994ee8a7584536711157c, type: 3}
   m_PrefabInstance: {fileID: 163222560}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &218243372 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8416804397583399653, guid: af48e13f4cb994ee8a7584536711157c, type: 3}
+  m_PrefabInstance: {fileID: 163222560}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7a445ce623b5224b884cbad1d5de0ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &268415450
 GameObject:
   m_ObjectHideFlags: 0
@@ -1747,6 +1762,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gameOverDialogue: {fileID: 1754962726}
   timeString: 
+  disabled: 0
 --- !u!114 &1158376976
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3267,7 +3283,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 13
-      m_TileSpriteIndex: 1
+      m_TileSpriteIndex: 7
       m_TileMatrixIndex: 0
       m_TileColorIndex: 12
       m_TileObjectToInstantiateIndex: 65535
@@ -3277,7 +3293,7 @@ Tilemap:
     second:
       serializedVersion: 2
       m_TileIndex: 2
-      m_TileSpriteIndex: 3
+      m_TileSpriteIndex: 6
       m_TileMatrixIndex: 0
       m_TileColorIndex: 12
       m_TileObjectToInstantiateIndex: 65535
@@ -4140,20 +4156,20 @@ Tilemap:
   m_TileSpriteArray:
   - m_RefCount: 2
     m_Data: {fileID: -2041102192, guid: ab2e32dd7bf5249448a2ce7226ce11b0, type: 3}
-  - m_RefCount: 1
-    m_Data: {fileID: 1459457438, guid: ab2e32dd7bf5249448a2ce7226ce11b0, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 5
     m_Data: {fileID: -363819192, guid: ab2e32dd7bf5249448a2ce7226ce11b0, type: 3}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
   - m_RefCount: 1
     m_Data: {fileID: -1692949473, guid: ab2e32dd7bf5249448a2ce7226ce11b0, type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 1459457438, guid: ab2e32dd7bf5249448a2ce7226ce11b0, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 1747422126757579397, guid: 13ecad47cae7f2c42bbe9435275563ad, type: 3}
   - m_RefCount: 1
