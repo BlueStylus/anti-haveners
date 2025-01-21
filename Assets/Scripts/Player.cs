@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour
 {
-    //Fields- local persistent variables for specific Class (like health)
+    // Fields - local persistent variables for specific Class (like health)
     public float walkSpeed = 5;
     public Rigidbody2D rigidBody;
     private BoxCollider2D _collider;
@@ -15,12 +15,18 @@ public class Player : MonoBehaviour
 
     public bool disableInputs;
 
+    // Walking sound
+    private AudioSource audioSource;
+
     // Start is called before the first frame update
     void Start()
     {
-        //set variables to components
+        // Set variables to components
         rigidBody = GetComponent<Rigidbody2D>();
         _collider = GetComponent<BoxCollider2D>();
+
+        // Get the AudioSource component
+        audioSource = GetComponent<AudioSource>();
 
         disableInputs = false;
     }
@@ -30,35 +36,41 @@ public class Player : MonoBehaviour
     {
         if (_playerState == -1)
         {
-            // disable all controls when detected and run dialogue system
+            // Disable all controls when detected and run dialogue system
             // pass;
         }
         else if (_playerState == 1)
         {
-            // disable all controls except SPACE to unhide yourself
+            // Disable all controls except SPACE to unhide yourself
             // pass;
         }
         else
         {
-            //movement inputs
+            // Movement inputs
             float horizontalInputs = Input.GetAxisRaw("Horizontal");
             float verticalInputs = Input.GetAxisRaw("Vertical");
-            if (!disableInputs) {
+            if (!disableInputs)
+            {
                 rigidBody.velocity = new Vector2(walkSpeed * horizontalInputs, walkSpeed * verticalInputs);
             }
 
-            //Debug.Log(_playerState);
+            // Handle walking sound
+            if (horizontalInputs != 0 || verticalInputs != 0)
+            {
+                if (!audioSource.isPlaying)
+                {
+                    audioSource.Play(); // Play walking sound
+                }
+            }
+            else
+            {
+                if (audioSource.isPlaying)
+                {
+                    audioSource.Stop(); // Stop walking sound when not moving
+                }
+            }
 
-            /* if completed_a_level:
-             *  Instantiate(PlayerPrefab, transform.position, Quaternion.identity);
-             *  SceneManager.LoadScene(use the scene build index);
-             *  go to file > build settings > drag new scene to the build settings
-             *  to go to next level just do like this:
-             *  int toLoad = SceneManager.GetActiveScene.buildIndex + 1;
-             *  SceneManager.LoadScene(toLoad); > goes to next scene in build settings
-             * if die:
-             *  Reload Scene somehow
-             */
+            // Debug.Log(_playerState);
         }
     }
 }
