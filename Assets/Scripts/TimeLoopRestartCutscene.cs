@@ -25,7 +25,9 @@ public class TimeLoopRestartCutscene : MonoBehaviour
     {
         if (dialogue.finished)
         {
-            StartCoroutine(WaitSomeTime());
+            dialogue.dialogueSystem.SetActive(false);
+            dialogue.enabled = false;
+            behavior.enabled = true;
         }
     }
 
@@ -37,13 +39,5 @@ public class TimeLoopRestartCutscene : MonoBehaviour
             //load the lobby of the house
             SceneManager.LoadScene(1);
         }
-    }
-
-    private IEnumerator WaitSomeTime()
-    {
-        yield return new WaitForSeconds(5);
-        dialogue.dialogueSystem.SetActive(false);
-        dialogue.enabled = false;
-        behavior.enabled = true;
     }
 }

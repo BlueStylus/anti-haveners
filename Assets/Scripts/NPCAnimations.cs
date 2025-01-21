@@ -5,7 +5,6 @@ using UnityEngine;
 public class NPCAnimations : MonoBehaviour
 {
     private Animator playerAnim;
-    private int direction = 0;
 
     // public int npcState;
     // 0 = idle down, -1 = walk down, -2 = idle up, -3 = walk up

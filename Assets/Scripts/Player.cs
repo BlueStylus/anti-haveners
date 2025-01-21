@@ -17,6 +17,12 @@ public class Player : MonoBehaviour
 
     // Walking sound
     private AudioSource audioSource;
+    private Vector2 lastDirection = Vector2.down; // Default facing direction (down)
+
+    // Reference to the animation system
+    public NPCAnimations anim;
+
+    public int animState = 0;
 
     // Start is called before the first frame update
     void Start()
