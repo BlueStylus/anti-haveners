@@ -23,6 +23,10 @@ public class QuizLayoutCreator : MonoBehaviour
 
     public Sprite backgroundImageSprite; // Background image sprite
 
+    private int score = 0;
+    public GameObject testPass;
+    public GameObject testFail;
+
     void Start()
     {
         CreateCanvas();
@@ -134,13 +138,9 @@ public class QuizLayoutCreator : MonoBehaviour
     {
         if (currentQuestionIndex >= questions.Length)
         {
-            resultText.text = "Quiz Complete!";
-            questionText.text = "";
-            foreach (Button btn in answerButtons)
-            {
-                btn.gameObject.SetActive(false);
-            }
-            return;
+            // Delay showing the final result
+            Invoke(nameof(ShowFinalResult), 1.5f);
+            return; // Exit the method early
         }
 
         // Set Question Text
@@ -161,12 +161,35 @@ public class QuizLayoutCreator : MonoBehaviour
         resultText.text = "";
     }
 
+    void ShowFinalResult()
+    {
+        resultText.text = "Quiz Complete!";
+        questionText.text = "";
+        foreach (Button btn in answerButtons)
+        {
+            btn.gameObject.SetActive(false);
+        }
+
+        if (score == 5)
+        {
+            testPass.SetActive(true);
+            testPass.GetComponent<TestScoreLogic>().enabled = true;
+        }
+        else
+        {
+            testFail.SetActive(true);
+            testFail.GetComponent<TestScoreLogic>().enabled = true;
+        }
+    }
+
     void CheckAnswer(int index)
     {
         Question currentQuestion = questions[currentQuestionIndex];
         if (index == currentQuestion.correctAnswerIndex)
         {
             resultText.text = "Correct!";
+            score++;
+            Debug.Log(score);
         }
         else
         {

@@ -29,6 +29,8 @@ public class TimeTracker : MonoBehaviour
 
     public string timeString;
 
+    public bool disabled;
+
     void Awake()
     {
         timeText = GetComponent<TextMeshProUGUI>();
@@ -50,33 +52,36 @@ public class TimeTracker : MonoBehaviour
 
     void Update()
     {
-        // Calculate delta time and add it to the current time
-        float deltaTime = TimeUtil.time - _lastCheck;
-        _lastCheck = TimeUtil.time;
-
-        _currentTime += TimeSpan.FromSeconds(deltaTime);
-
-        // Update the UI text
-        if (timeText != null)
+        if (!disabled)
         {
-            timeString = _currentTime.ToString(@"h\:mm") + " AM";
-            timeText.text = timeString;
-        }
+            // Calculate delta time and add it to the current time
+            float deltaTime = TimeUtil.time - _lastCheck;
+            _lastCheck = TimeUtil.time;
 
-        // Check if we reached or surpassed the trigger time
-        if (!HasReachedTargetTime && _currentTime >= _endTriggerTime)
-        {
-            HasReachedTargetTime = true;
-            TriggerGameOverDialogue();
-            Debug.Log("Game Over!");
-        }
-        
-        // For Game Over:
-        if (gameOverDialogue.GetComponent<NPCDialogue>() != null)
-        {
-            if (gameOverDialogue.GetComponent<NPCDialogue>().finished)
+            _currentTime += TimeSpan.FromSeconds(deltaTime);
+
+            // Update the UI text
+            if (timeText != null)
             {
-                SceneManager.LoadScene("Bedroom");
+                timeString = _currentTime.ToString(@"h\:mm") + " AM";
+                timeText.text = timeString;
+            }
+
+            // Check if we reached or surpassed the trigger time
+            if (!HasReachedTargetTime && _currentTime >= _endTriggerTime)
+            {
+                HasReachedTargetTime = true;
+                TriggerGameOverDialogue();
+                Debug.Log("Game Over!");
+            }
+
+            // For Game Over:
+            if (gameOverDialogue.GetComponent<NPCDialogue>() != null)
+            {
+                if (gameOverDialogue.GetComponent<NPCDialogue>().finished)
+                {
+                    SceneManager.LoadScene("Bedroom");
+                }
             }
         }
     }
