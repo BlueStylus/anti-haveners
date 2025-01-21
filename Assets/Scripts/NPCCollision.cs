@@ -14,6 +14,9 @@ public class NPCCollision : MonoBehaviour
 
     private bool collidedOnce;
 
+    public AudioClip sound;
+    private AudioSource audioPlayer;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -23,6 +26,8 @@ public class NPCCollision : MonoBehaviour
         dialogueComponent.enabled = false;
         behaviorComponent = GetComponent<NPCBehavior>();
         behaviorComponent.enabled = true;
+
+        audioPlayer = GetComponent<AudioSource>();
     }
 
     void OnCollisionEnter2D(Collision2D col)
@@ -39,6 +44,8 @@ public class NPCCollision : MonoBehaviour
                 dialogueComponent.enabled = true;
                 behaviorComponent.enabled = false;
                 collidedOnce = true;
+                audioPlayer.clip = sound;
+                audioPlayer.Play();
             }
         }
     }
