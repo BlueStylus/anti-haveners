@@ -1563,7 +1563,7 @@ Camera:
   far clip plane: 1000
   field of view: 60
   orthographic: 1
-  orthographic size: 5
+  orthographic size: 7
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -1660,8 +1660,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278190080
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1850,7 +1850,7 @@ GameObject:
   - component: {fileID: 2115233376}
   - component: {fileID: 2115233378}
   m_Layer: 5
-  m_Name: GameObject
+  m_Name: QuizManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1884,7 +1884,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2115233375}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 977f83e2633c0b945bb47b1cf8265f38, type: 3}
+  m_Script: {fileID: 11500000, guid: 068093f2eab893d4fad568ea16ff5dd7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   questions:
@@ -1918,14 +1918,12 @@ MonoBehaviour:
     correctAnswerIndex: 0
   - questionText: 'What is Rakesville known for? '
     answers:
-    - Rakesville has the largest thumbtack in the world
-    - Rakesville is the largest gathering of people not officially recognized as
-      a town in the entire United States
-    - Just north of Rakesville is the grassy hill where the Windows XP picture was
-      taken
-    - 'Rakesville is on the border of two timezones, so its time is set to be half
-      an hour after PST and half an hour before MST '
+    - Rakesville has the largest thumbtack in the world.
+    - Rakesville has the largest unrecognized town population in USA.
+    - Rakesville hosts the hill from Windows XP.
+    - Rakesville is on the border of two timezones.
     correctAnswerIndex: 2
+  backgroundImageSprite: {fileID: 8792799853971211608, guid: ad0e31401dca131458f1284f1f320e28, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
