@@ -46,6 +46,21 @@ public class NPCCollision : MonoBehaviour
                 collidedOnce = true;
                 audioPlayer.clip = sound;
                 audioPlayer.Play();
+
+                GameObject[] dialogueSystems = GameObject.FindGameObjectsWithTag("DialogueSystem");
+
+                foreach (GameObject ds in dialogueSystems)
+                {
+                    ds.SetActive(false);
+                }
+
+                GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+
+                foreach (GameObject npc in npcs)
+                {
+                    npc.GetComponent<NPCBehavior>().enabled = false;
+                    npc.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+                }
             }
         }
     }

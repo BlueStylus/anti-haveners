@@ -423,6 +423,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detection: {fileID: 4542460497355366280}
   detection_cone: {fileID: 3215892422137235520}
+  sound: {fileID: 0}
 --- !u!114 &7113569902458764888
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -461,21 +462,21 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 2
-    jumpIfChoice2: 0
+    jumpIfChoice2: 2
     finisher: 0
   - text: 'Like, the really tall good-looking guy, we talked to him last time at
       that party, I think his name was like Jerome or something? '
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 3
-    jumpIfChoice2: 0
+    jumpIfChoice2: 3
     finisher: 0
   - text: "And apparently he told her that it was with another guy in the same frat!!
       Some guy named Gabe. Isn\u2019t that insaaaane???"
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 4
-    jumpIfChoice2: 0
+    jumpIfChoice2: 4
     finisher: 0
   - text: "I-I don\u2019t mean being gay or bisexual of course! The cheating! Like
       they were together for 3 years alreadyyy! And now he just walks out to be with
@@ -483,7 +484,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 5
-    jumpIfChoice2: 0
+    jumpIfChoice2: 5
     finisher: 0
   - text: "So anyway tho the story is that Charlene heard from Jennifer that HER
       bf Daniel was taking a nighttime drive up north when he saw Jerome\u2019s car
@@ -491,7 +492,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 6
-    jumpIfChoice2: 0
+    jumpIfChoice2: 6
     finisher: 0
   - text: "...by that really famous field or whatever, you know, the one that was
       the computer background, and you know, Charlene and Jennifer are besties and
@@ -502,14 +503,14 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 7
-    jumpIfChoice2: 0
+    jumpIfChoice2: 7
     finisher: 0
   - text: But then as he gets closer he sees two people GOING AT IT in the backseat
       so hes like omggggggg and drives off to go back home.
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 8
-    jumpIfChoice2: 0
+    jumpIfChoice2: 8
     finisher: 0
   - text: "So THEN, he goes back to Jennifer\u2019s place and is like babe i have
       the ca-razzziest story to tell you rn, like i totally just saw Charlene and
@@ -518,7 +519,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 9
-    jumpIfChoice2: 0
+    jumpIfChoice2: 9
     finisher: 0
   - text: "So then DANIEL is like WHATTTTTT and goes over to Jerome\u2019s place
       to check it out and he sees his car over in the driveway so Daniel goes up
@@ -526,7 +527,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 10
-    jumpIfChoice2: 0
+    jumpIfChoice2: 10
     finisher: 0
   - text: Like, who does thattttttt????? If ur gonna cheat on someone at LEAST answer
       ur door when someone knocks, like, you dont know whos gonna even be there?!!?!?
@@ -534,7 +535,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 11
-    jumpIfChoice2: 0
+    jumpIfChoice2: 11
     finisher: 0
   - text: OH I should also tell you Mr. Davidson was like totally looking for you
       just now, he was all like Gretchen have you seen (name) and i was all like
@@ -542,7 +543,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 12
-    jumpIfChoice2: 0
+    jumpIfChoice2: 12
     finisher: 0
   - text: And now I found you!!!! So ya like whenever you have a spare moment you
       should pop over to his classroom cuz like i think you need to take a test or
@@ -550,7 +551,7 @@ MonoBehaviour:
     choices:
     - YES I NEED TO GO THANK YOU BYE
     jumpIfChoice1: 13
-    jumpIfChoice2: 0
+    jumpIfChoice2: 13
     finisher: 0
   - text: But anyway tho yaaa okay this rumor is spreading like wildfire so if you
       wanna get on the gossip train you gotta hop on now!!! Okay byeeeeeeeeeee!
