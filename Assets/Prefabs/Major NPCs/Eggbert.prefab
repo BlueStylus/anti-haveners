@@ -740,6 +740,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   detection: {fileID: 5685270254468822149}
   detection_cone: {fileID: 6216459239880987997}
+  sound: {fileID: 0}
 --- !u!114 &3924292625699465275
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1187,7 +1188,7 @@ Animator:
   m_GameObject: {fileID: 4197198876176998800}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3ee4586247c75f640b2c892a5ebe661d, type: 2}
+  m_Controller: {fileID: 9100000, guid: 008cb065f6bc60240821b5e0f9c94ea8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1242,7 +1243,7 @@ SpriteRenderer:
   m_SortingLayerID: 1942743303
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 823149913, guid: 4e46a5ba9d1145d44bfdf4176a5c1ca5, type: 3}
+  m_Sprite: {fileID: -5414498893569429425, guid: 2596d3e779954d94d80d7d7248d76f03, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

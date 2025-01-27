@@ -54,6 +54,13 @@ public class NPCDialogue : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        GameObject[] dialogueSystems = GameObject.FindGameObjectsWithTag("DialogueSystem");
+
+        foreach (GameObject ds in dialogueSystems)
+        {
+            ds.SetActive(false);
+        }
+
         dialogueSystem.SetActive(true);
 
         dialogueSystemPortrait.sprite = portrait;
@@ -105,7 +112,16 @@ public class NPCDialogue : MonoBehaviour
             player.GetComponent<Player>().disableInputs = false;
             dialogueSystem.SetActive(false);
             detectionCone.SetActive(false);
+            detectionMeter.gameObject.SetActive(false);
             detectionMeter.enabled = false;
+
+            GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
+
+            foreach (GameObject npc in npcs)
+            {
+                npc.GetComponent<NPCBehavior>().enabled = false;
+                npc.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+            }
         }
     }
 

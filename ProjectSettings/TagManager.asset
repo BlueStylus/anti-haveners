@@ -7,6 +7,8 @@ TagManager:
   - Popup
   - NPC
   - DialogueSystem
+  - TimeTracker
+  - GameOver
   layers:
   - Default
   - TransparentFX

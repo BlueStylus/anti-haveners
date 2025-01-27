@@ -15,17 +15,16 @@ public class TimeTracker : MonoBehaviour
     private float _lastCheck;
     // Start time: 9:25 AM
     private TimeSpan _startTime = new TimeSpan(9, 25, 0);
-    private TimeSpan _currentTime;
     // Trigger time: 9:30 AM
-    private TimeSpan _endTriggerTime = new TimeSpan(9, 31, 0);
+    private TimeSpan _endTime = new TimeSpan(9, 31, 0);
 
-    private TextMeshProUGUI timeText;
+    public TimeSpan currentTime = new TimeSpan(9, 25, 0);
+
+    public TextMeshProUGUI timeText;
 
     public GameObject gameOverDialogue;
 
     public bool HasReachedTargetTime { get; private set; } = false;
-
-    private bool _resetOnScene4;
 
     public string timeString;
 
@@ -35,16 +34,15 @@ public class TimeTracker : MonoBehaviour
     {
         timeText = GetComponent<TextMeshProUGUI>();
 
+        DontDestroyOnLoad(this.gameObject);
+
         if (_instance != null && _instance != this)
         {
-            Destroy(gameObject);
+            // currentTime = _instance.currentTime;
+            Destroy(_instance);
             return;
         }
-
-        _instance = this;
-        DontDestroyOnLoad(gameObject);
-
-        _currentTime = _startTime;
+        
         _lastCheck = TimeUtil.time;
 
         SceneManager.sceneLoaded += OnSceneLoaded;
@@ -58,21 +56,25 @@ public class TimeTracker : MonoBehaviour
             float deltaTime = TimeUtil.time - _lastCheck;
             _lastCheck = TimeUtil.time;
 
-            _currentTime += TimeSpan.FromSeconds(deltaTime);
+            currentTime += TimeSpan.FromSeconds(deltaTime);
+            Debug.Log(currentTime.ToString(@"h\:mm\:ss"));
 
             // Update the UI text
             if (timeText != null)
             {
-                timeString = _currentTime.ToString(@"h\:mm") + " AM";
+                timeString = currentTime.ToString(@"h\:mm") + " AM";
                 timeText.text = timeString;
             }
 
             // Check if we reached or surpassed the trigger time
-            if (!HasReachedTargetTime && _currentTime >= _endTriggerTime)
+            if (!HasReachedTargetTime && currentTime >= _endTime)
             {
                 HasReachedTargetTime = true;
-                TriggerGameOverDialogue();
-                Debug.Log("Game Over!");
+                if (!gameOverDialogue.activeSelf)
+                {
+                    TriggerGameOverDialogue();
+                    Debug.Log("Game Over");
+                }
             }
 
             // For Game Over:
@@ -93,10 +95,20 @@ public class TimeTracker : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        if (scene.name == "Bedroom")
+        gameOverDialogue = GameObject.FindGameObjectWithTag("GameOver");
+
+        if (scene.name == "Test")
         {
-            _currentTime = _startTime;
+            disabled = true;
+        }
+        else if (scene.name == "Bedroom")
+        {
+            currentTime = _startTime;
             HasReachedTargetTime = false;
+        }
+        else
+        {
+            disabled = false;
         }
     }
 

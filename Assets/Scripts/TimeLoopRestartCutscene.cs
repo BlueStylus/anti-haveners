@@ -37,7 +37,7 @@ public class TimeLoopRestartCutscene : MonoBehaviour
         {
             Debug.Log("Collided!");
             //load the lobby of the house
-            SceneManager.LoadScene(1);
+            SceneManager.LoadScene(2);
         }
     }
 }
