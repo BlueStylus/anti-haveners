@@ -560,7 +560,21 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'You win!!!
 
-    Thank you for playing!!! -Team TBD (The Best Designers)'
+    Thank you for playing!!! -Team TBD (The Best Designers)
+
+
+    Kennedy
+    Coleman- Artistic Director
+
+    Andrew Lin- Narrative Director
+
+    Jamie Shiao-
+    Lead Game Designer, Programmer
+
+    Jenn Uche- Principle Programmer
+
+    Emma
+    Ziemba- Head Audio Designer'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -625,7 +639,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: -107.296585, z: 0, w: -187.1454}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -879,7 +893,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 1.9999988}
+  m_AnchoredPosition: {x: 0, y: -118.00002}
   m_SizeDelta: {x: 218.13, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1014584130
@@ -1417,7 +1431,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -44}
+  m_AnchoredPosition: {x: 0, y: -164}
   m_SizeDelta: {x: 218.13, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2046805664

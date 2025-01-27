@@ -73,7 +73,7 @@ public class QuizLayoutCreator : MonoBehaviour
         questionRect.anchorMax = new Vector2(0.73f, 0.85f); // End closer to the center
         questionRect.offsetMin = Vector2.zero;
         questionRect.offsetMax = Vector2.zero;
-        questionText.fontSize = 36;
+        questionText.fontSize = 24;
         questionText.alignment = TextAlignmentOptions.Center;
         questionText.text = "Question will appear here";
         questionText.color = Color.black; // Set text color to black
