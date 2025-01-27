@@ -43,7 +43,7 @@ public class NPCDialogue : MonoBehaviour
     private bool canContinueDialogue = false;
     [SerializeField] private GameObject continueIcon;
 
-    private int i = 0;
+    public int i = 0;
 
     public bool finished;
 
@@ -107,14 +107,6 @@ public class NPCDialogue : MonoBehaviour
         }
         else if (finished && Input.GetMouseButtonDown(0) && canContinueDialogue)
         {
-            this.enabled = false;
-            behaviorComponent.enabled = true;
-            player.GetComponent<Player>().disableInputs = false;
-            dialogueSystem.SetActive(false);
-            detectionCone.SetActive(false);
-            detectionMeter.gameObject.SetActive(false);
-            detectionMeter.enabled = false;
-
             GameObject[] npcs = GameObject.FindGameObjectsWithTag("NPC");
 
             foreach (GameObject npc in npcs)
@@ -122,6 +114,14 @@ public class NPCDialogue : MonoBehaviour
                 npc.GetComponent<NPCBehavior>().enabled = false;
                 npc.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
             }
+
+            this.enabled = false;
+            behaviorComponent.enabled = true;
+            player.GetComponent<Player>().disableInputs = false;
+            dialogueSystem.SetActive(false);
+            detectionCone.SetActive(false);
+            detectionMeter.gameObject.SetActive(false);
+            detectionMeter.enabled = false;
         }
     }
 

@@ -561,6 +561,7 @@ MonoBehaviour:
     finisher: 1
   typingSpeed: 0.03
   continueIcon: {fileID: 8687638490094867503}
+  i: 0
   finished: 0
   bustsKneecaps: 0
 --- !u!114 &1312555508513187266
@@ -1559,7 +1560,7 @@ GameObject:
   - component: {fileID: 4542460497355366280}
   m_Layer: 0
   m_Name: Cone Hitbox
-  m_TagString: NPC
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1743,7 +1744,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4004282681742959145
 Transform:
   m_ObjectHideFlags: 0

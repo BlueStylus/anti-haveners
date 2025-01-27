@@ -13263,8 +13263,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8fc03a2c1416844abb641c8c9853ce0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bottom_tiles: []
-  top_tiles: []
+  bottom_tiles:
+  - {fileID: 11400000, guid: aab9a4d0ddb002446b29c4506e152286, type: 2}
+  top_tiles:
+  - {fileID: 11400000, guid: aab9a4d0ddb002446b29c4506e152286, type: 2}
   hideInstructions: {fileID: 73228206}
   instructionsText: {fileID: 425712655}
 --- !u!114 &189415371
@@ -32389,7 +32391,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_SizeDelta.x
-      value: -1245.69
+      value: -1163.78
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_SizeDelta.y
@@ -32425,11 +32427,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 2765.6
+      value: 2770.3
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 48.8
+      value: -2.100006
       objectReference: {fileID: 0}
     - target: {fileID: 1355430423652833713, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -32453,7 +32455,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8554926075043752331, guid: 11bad444dfcd24ce4a604c042093da6e, type: 3}
       propertyPath: m_text
-      value: Class 100
+      value: '[SPACE] to take test'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

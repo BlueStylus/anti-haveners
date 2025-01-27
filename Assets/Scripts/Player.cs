@@ -79,6 +79,13 @@ public class Player : MonoBehaviour
                 else if (lastDirection == Vector2.up) newPlayerState = -3; // Walk up
                 else if (lastDirection == Vector2.right) newPlayerState = 4; // Walk right;
             }
+            else
+            {
+                if (lastDirection == Vector2.down) newPlayerState = 0; // Idle down
+                else if (lastDirection == Vector2.left) newPlayerState = 1;  // Idle left
+                else if (lastDirection == Vector2.up) newPlayerState = -2; // Idle up
+                else if (lastDirection == Vector2.right) newPlayerState = 3; // Idle right;
+            }
 
             // Only update animation if the state changes
             if (newPlayerState != animState)

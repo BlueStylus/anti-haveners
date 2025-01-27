@@ -16,7 +16,7 @@ public class TimeTracker : MonoBehaviour
     // Start time: 9:25 AM
     private TimeSpan _startTime = new TimeSpan(9, 25, 0);
     // Trigger time: 9:30 AM
-    private TimeSpan _endTime = new TimeSpan(9, 31, 0);
+    private TimeSpan _endTime = new TimeSpan(9, 30, 0);
 
     public TimeSpan currentTime = new TimeSpan(9, 25, 0);
 
@@ -82,6 +82,8 @@ public class TimeTracker : MonoBehaviour
             {
                 if (gameOverDialogue.GetComponent<NPCDialogue>().finished)
                 {
+                    gameOverDialogue.GetComponent<NPCDialogue>().i = 0;
+                    gameOverDialogue.GetComponent<NPCDialogue>().finished = false;
                     SceneManager.LoadScene("Bedroom");
                 }
             }
@@ -95,8 +97,6 @@ public class TimeTracker : MonoBehaviour
 
     void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        gameOverDialogue = GameObject.FindGameObjectWithTag("GameOver");
-
         if (scene.name == "Test")
         {
             disabled = true;
@@ -105,6 +105,7 @@ public class TimeTracker : MonoBehaviour
         {
             currentTime = _startTime;
             HasReachedTargetTime = false;
+            Destroy(gameObject);
         }
         else
         {
@@ -125,10 +126,11 @@ public class TimeTracker : MonoBehaviour
 
         foreach (GameObject npc in npcs)
         {
-            npc.GetComponent<NPCBehavior>().enabled = false;
-            npc.GetComponent<Rigidbody2D>().velocity = Vector2.zero;
+            npc.SetActive(false);
         }
 
+        GetComponent<AudioSource>().Play();
         gameOverDialogue.SetActive(true);
+        Debug.Log(gameOverDialogue.activeInHierarchy);
     }
 }
