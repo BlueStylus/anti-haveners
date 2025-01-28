@@ -13364,7 +13364,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3362d38bebf8c3b48b03fe5223e695af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneIndex: 3
+  sceneIndex: 4
   door: {fileID: 189415370}
 --- !u!114 &189415372
 MonoBehaviour:

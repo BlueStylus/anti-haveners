@@ -43,6 +43,7 @@ public class MenuManager : MonoBehaviour
     public void ReturntoMainButton()
     {
         SceneManager.LoadScene(0);
+        Destroy(GameObject.Find("TimeTracker"));
     }
 
     public void StartLevel1()
